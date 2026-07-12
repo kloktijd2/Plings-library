@@ -1,2 +1,2 @@
-[[Striders]]
+[Striders](Striders.md)
 #wip

@@ -1,4 +1,4 @@
-[[Striders]]
+[Striders](Striders.md)
 #wip 
 played by:
 pronouns:

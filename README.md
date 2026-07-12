@@ -12,3 +12,13 @@ out of character is all out of character info that is needed, i try to keep it m
 
 ## people of haven
 this is where the striders catalogue profiles of people
+ofcourse this includes striders
+
+## scriptorium
+this is where every scriptorium mission gets put catagorized in types. always with the original pdf but also the raw text edited to use markdown links
+
+## templates
+the template files for everything
+
+## unsorted
+stuff that needs to be sorted

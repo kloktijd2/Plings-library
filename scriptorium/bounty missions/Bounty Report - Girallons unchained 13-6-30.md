@@ -1,7 +1,10 @@
 #report
-Posted by: [[anormalduck]] 
-Posted date: 
-Pdf:
-Written by: 
-Location:
-#wip 
+Posted by: [anormalduck](anormalduck) 
+Posted date: 2026-6-30
+Pdf: [Bounty Report - Girallons unchained 13-6-30](Bounty%20Report%20-%20Girallons%20unchained%2013-6-30.md)
+Written by: [Ruby](Ruby.md)
+Location: [Bounty Report - Girallons unchained 13-6-30](.md)
+
+Strider's Report - Girallon Unchained 
+Party: [Ruby](Ruby.md) (me), [Zea](), Koté, Necro 
+Objective: Investigate reports of strange Girallons to the south. Setting Out I met up with Zea, Koté and... Necro. He arrived wearing chains and a straight jacket while being escorted by several guards. Starting from the Verge, we headed south towards a swamp known as The Broken Slough. Not long after arriving, Necro decided to turn himself into a crocodile to investigate something deeper in the swamp. Unfortunately, a strange plant creature decided crocodile was on the menu and wrapped him up. We dealt with it quickly and continued on without much trouble. First Night As the sun went down, we made camp. The peaceful night lasted right up until three lightning spirits attacked our position. They were surprisingly dangerous, but we managed to defeat them without anyone getting seriously hurt. One day south of the Verge and things were already trying to kill us. Business as usual. Frog Folk The following day we continued south and came across a small village beneath the water. A group of frog folk surfaced to speak with us. They pointed us towards the south-east, though they didn't tell us much else. Koté decided to pray at a statue of their god. Almost immediately she entered some sort of trance and simply... started walking. Since she seemed determined and wasn't walking into any trees, we decided to follow her rather than interrupt whatever was happening. It eventually led us exactly where we needed to go. The Rotting Mansion As we approached our destination, we noticed Girallons watching us from the trees. Oddly enough, they weren't hostile. Not immediately, anyway, we thought it might have had something to do with Koté’s trance. 

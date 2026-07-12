@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "unsorted"
+  "newFileFolderPath": "unsorted",
+  "useMarkdownLinks": true
 }

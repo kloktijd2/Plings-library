@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "842efbe04bd5a4ac",
+        "id": "a5535f3140547533",
         "type": "tabs",
         "children": [
           {
-            "id": "ed8085cd0c387ace",
+            "id": "ddb16951a57d76ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scriptorium/bounty missions/Bounty Report - Girallons unchained 13-6-30.md",
+                "file": "scriptorium/expeditions/Expedition Report - Hotheads an esay on the fire tornado 13-6-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bounty Report - Girallons unchained 13-6-30"
+              "title": "Expedition Report - Hotheads an esay on the fire tornado 13-6-25"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 605.5
   },
   "right": {
     "id": "55296f26bc0b689a",
@@ -166,21 +166,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "scriptorium/expeditions/Expedition Report - Hotheads an esay on the fire tornado 13-6-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Expedition Report - Hotheads an esay on the fire tornado 13-6-25"
+            }
+          },
+          {
+            "id": "a70647c7da508110",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,42 +204,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "ed8085cd0c387ace",
+  "active": "cd711d42ecc9480d",
   "lastOpenFiles": [
-    "scriptorium/pdf/Bounty - Grocery Chopping (Hard) 13-7-11.pdf",
-    "scriptorium/pdf/Bounty Report - Girallons unchained 13-6-30.pdf",
-    "unsorted/Ruby.md",
-    "scriptorium/bounty missions/Bounty Report - Girallons unchained 13-6-30.md",
-    "unsorted/().md",
-    "README.md",
+    "scriptorium/expeditions/Expedition Report - Recovering The Atlas & Co 13-6-30.md",
     "scriptorium/bounty missions/Bounty - Grocery Chopping (Hard) 13-7-11.md",
-    "Out of character/Players",
-    "Untitled",
-    "Out of character",
-    "Untitled 1/Untitled",
-    "profiles people of haven/strider profiles/pling.md",
-    "profiles people of haven/strider profiles/Wynnstan Blackcrown.md",
-    "knowledge books/a documentation of locations in the new material/Blood Lake.md",
-    "knowledge books/a documentation of locations in the new material/Wicked Copse.md",
-    "knowledge books/a documentation of locations in the new material/Whistling Peaks.md",
-    "knowledge books/a documentation of locations in the new material/Floating dragon mountain.md",
-    "knowledge books/a documentation of locations in the new material/Silent Woods.md",
+    "scriptorium/bounty missions/Bounty Report - Girallons unchained 13-6-30.md",
+    "profiles people of haven/strider profiles/theodore.md",
+    "templates/scriptorium reports.md",
+    "knowledge books/A striders guide to Adventuring/Report.md",
+    "scriptorium/expeditions/Expedition Report - Hotheads an esay on the fire tornado 13-6-25.md",
+    "scriptorium/pdf/Expedition Report - Hotheads an essay on the fire tornado 13-6-25.pdf",
+    "scriptorium/bounty missions/Untitled.md",
+    "unsorted/Girallon.md",
+    "scriptorium/bounty missions/grocery chopping report 13-6-26.md",
     "knowledge books/The direction of things_ A guide of where to go when you need to be somewhere by Wynnstan/The direction of things_ A guide of where to go when you need to be somewhere.md",
-    "knowledge books/a documentation of locations in the new material/Clearflow Cave.md",
-    "knowledge books/a documentation of locations in the new material/Eastern Woodlands.md",
-    "knowledge books/a documentation of locations in the new material/Juran Tall Woods.md",
-    "knowledge books/a documentation of locations in the new material/North West Makutu Woods.md",
-    "knowledge books/a documentation of locations in the new material/Riftgate.md",
-    "knowledge books/a documentation of locations in the new material/Rosewood Forest.md",
-    "knowledge books/The direction of things_ A guide of where to go when you need to be somewhere by Wynnstan/Shu Feng Keep.md",
-    "knowledge books/a documentation of locations in the new material/The Verge.md",
-    "knowledge books/The direction of things_ A guide of where to go when you need to be somewhere by Wynnstan/Original pdf/The direction of things_ A guide of where to go when you need to be somewhere.pdf",
-    "knowledge books/The direction of things_ A guide of where to go when you need to be somewhere by Wynnstan/Original pdf",
-    "unsorted",
-    "knowledge books/The direction of things_ A guide of where to go when you need to be somewhere by Wynnstan",
-    "knowledge books/a documentation of locations in the new material/Haven.md",
-    "profiles people of haven/strider profiles/Oxyotl.md",
-    "profiles people of haven/strider profiles/Mirea.md",
-    "profiles people of haven/people who have requested strider aid/chef Madeleine.md"
+    "scriptorium/pdf/grocery chopping report.pdf",
+    "Out of character/tags/Problem.md",
+    "knowledge books/a documentation of locations in the new material/The Broken Slough.md",
+    "knowledge books/an encyclopedia of magic/gentle repose.md",
+    "templates/Location.md",
+    "Out of character/tags/Untitled.md",
+    "knowledge books/why dont you fix this, a collection of problems in haven by pling/fire tornado.md",
+    "Out of character/tags/magic.md",
+    "templates/people who have requested strider aid.md",
+    "profiles people of haven/strider profiles/Xanaleth.md",
+    "profiles people of haven/strider profiles/Ber.md",
+    "profiles people of haven/strider profiles/Ado.md",
+    "templates/Strider.md",
+    "templates/Magic thing.md",
+    "templates/Player.md",
+    "templates/Problem.md",
+    "Out of character/tags",
+    "knowledge books/A striders guide to Adventuring",
+    "knowledge books/Untitled 1",
+    "knowledge books/fauna discovered in the new material",
+    "scriptorium/pdf/Bounty - Grocery Chopping (Hard) 13-7-11.pdf",
+    "scriptorium/pdf/Expedition Report - Recovering The Atlas & Co 13-6-30.pdf",
+    "scriptorium/expeditions",
+    "scriptorium/pdf/Bounty Report - Girallons unchained 13-6-30.pdf"
   ]
 }

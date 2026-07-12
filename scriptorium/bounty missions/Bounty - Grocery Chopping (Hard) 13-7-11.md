@@ -1,4 +1,4 @@
-[[report]]
+[Report](knowledge%20books/A%20striders%20guide%20to%20Adventuring/Report.md)
 Posted by: [_lonax_](_lonax_.md)
 posted: 2026-7-11
 pdf:[Bounty - Grocery Chopping (Hard) 13-7-11](Bounty%20-%20Grocery%20Chopping%20(Hard)%2013-7-11.md)

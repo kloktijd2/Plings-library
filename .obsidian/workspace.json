@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scriptorium/expeditions/Expedition Report - Hotheads an esay on the fire tornado 13-6-25.md",
+                "file": "scriptorium/bounty missions/Bounty Report - Girallons unchained 13-6-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Expedition Report - Hotheads an esay on the fire tornado 13-6-25"
+              "title": "Bounty Report - Girallons unchained 13-6-30"
             }
           }
         ]
@@ -194,30 +194,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd711d42ecc9480d",
+  "active": "ddb16951a57d76ce",
   "lastOpenFiles": [
+    "profiles people of haven/strider profiles/Orchid.md",
+    "knowledge books/The direction of things_ A guide of where to go when you need to be somewhere by Wynnstan/The direction of things_ A guide of where to go when you need to be somewhere.md",
+    "scriptorium/expeditions/Expedition Report - Hotheads an esay on the fire tornado 13-6-25.md",
     "scriptorium/expeditions/Expedition Report - Recovering The Atlas & Co 13-6-30.md",
     "scriptorium/bounty missions/Bounty - Grocery Chopping (Hard) 13-7-11.md",
     "scriptorium/bounty missions/Bounty Report - Girallons unchained 13-6-30.md",
     "profiles people of haven/strider profiles/theodore.md",
     "templates/scriptorium reports.md",
     "knowledge books/A striders guide to Adventuring/Report.md",
-    "scriptorium/expeditions/Expedition Report - Hotheads an esay on the fire tornado 13-6-25.md",
     "scriptorium/pdf/Expedition Report - Hotheads an essay on the fire tornado 13-6-25.pdf",
     "scriptorium/bounty missions/Untitled.md",
     "unsorted/Girallon.md",
     "scriptorium/bounty missions/grocery chopping report 13-6-26.md",
-    "knowledge books/The direction of things_ A guide of where to go when you need to be somewhere by Wynnstan/The direction of things_ A guide of where to go when you need to be somewhere.md",
     "scriptorium/pdf/grocery chopping report.pdf",
     "Out of character/tags/Problem.md",
     "knowledge books/a documentation of locations in the new material/The Broken Slough.md",
@@ -233,7 +234,6 @@
     "templates/Strider.md",
     "templates/Magic thing.md",
     "templates/Player.md",
-    "templates/Problem.md",
     "Out of character/tags",
     "knowledge books/A striders guide to Adventuring",
     "knowledge books/Untitled 1",

@@ -14,7 +14,7 @@ We teleported from [Haven](knowledge%20books/a%20documentation%20of%20locations%
 named [Leona](Leona) wearing a bright blue plate armor. Very cool. [Kurze](Kurze) and [Wynnstan](Wynnstan%20Blackcrown.md) were
 already waiting for us.
 From the [Tall Spire](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Tall%20Spire.md), we headed northwest for around two to three hours until we reached
-the [fire tornado](knowledge%20books/why%20dont%20you%20fix%20this,%20a%20collection%20of%20problems%20in%20haven%20by%20pling/fire%20tornado.md).
+the [fire tornado](fire%20tornado.md).
 It doesn't move.
 At all.
 It's just... there.

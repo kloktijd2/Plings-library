@@ -1,3 +1,8 @@
+---
+aliases:
+  - achilllae
+  - Achillae
+---
 [Striders](Striders.md)
 #wip 
 played by:

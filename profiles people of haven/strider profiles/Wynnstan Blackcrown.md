@@ -1,3 +1,7 @@
+---
+aliases:
+  - Wynnstan
+---
 [Striders](Striders.md)
 #wip 
 played by:

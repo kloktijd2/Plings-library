@@ -1,5 +1,5 @@
-See also: [Report](Report.md)
-Posted by: [kloktijd](kloktijd) 
+See also: [Report](Report.md) [[gut cutters]]
+Posted by: [kloktijd](kloktijd.md) 
 Posted date: 2026-6-26
 Pdf:[grocery chopping report](grocery%20chopping%20report.pdf)
 Written by: [pling](pling.md)

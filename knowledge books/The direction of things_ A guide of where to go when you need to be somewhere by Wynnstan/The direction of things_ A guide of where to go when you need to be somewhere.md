@@ -12,7 +12,7 @@
 [North West Makutu Woods](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/North%20West%20Makutu%20Woods.md): 2 days South South West 
 [Riftgate](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Riftgate.md): 3 days South West (Tall Spire), 2 days South 
 [Rosewood Forest](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Rosewood%20Forest.md): 4 days North East 
-[Shu Feng Keep](Shu%20Feng%20Keep.md): +- 2-3 days West - North West(Just follow [Resin Creek](Resin%20Creek)) 
+[Shu Feng Keep](Shu%20Feng%20Keep.md): +- 2-3 days West - North West(Just follow [Resin Creek](Resin%20Creek.md)) 
 [Silent Woods](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Silent%20Woods.md): 2 days North East 
 [Tall Spire](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Tall%20Spire.md): 3 days South West 
 [The Verge](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/The%20Verge.md): 3 days East & 1.5 days South 

@@ -1,9 +1,16 @@
+See also: [Report](Report.md)
+Posted by:  [[kingstarlightluca]]
+Posted date: /
+Pdf: [Laowai's field work](Laowai's%20field%20work.pdf)
+Written by: [Laowai](Laowai%20Xhê.md)
+Location: [Defanged Tower](Defanged%20Tower.md)
+
 Mission 3 Wind Broken
 Adventurers:
 Lady [[Laowai Xhê]]
 Strider [[Albedo]] (Backflip: VII, Failed: I)
 Strider [[Michael]]
-Strider [[Achillae]]
+Strider [Achillae](Achillea.md)
 We set out at the Northern gate to make our way to the [[Defanged Tower]]. According to reports, a storm has
 taken root there. Electrical currents seem to hold the tower in its grasp, and [[striders]] were sent in to
 investigate.
@@ -20,7 +27,7 @@ shamans attacked the camp. The thiefling, blinded by faith, walked into the trap
 fight and later moved to the correct path.
 We arrived late at the [[Darkstrider]] cave. We found a collection of dead [[gnoll]]s at the entrance, killed by the
 traps no doubt. It seems we were not the only people suffering with the [[Gnoll]]s. Moving in we prepared to rest
-here, not taking the risk of camping in the plains between the cave and [[defanged tower]]. The dwarven leader
+here, not taking the risk of camping in the plains between the cave and [[Defanged Tower]]. The dwarven leader
 [[Amorin]] gave us insight on the situation. She is to busy with holding the [[gnoll]]s back and hopes something soon
 will be done by the situation. She also pointed out that one of the [[darkstrider]]s is missing. A young curious
 adventurer named [[Curiosity]], and her sister ‘[[Fashion]]’ is offering a reward for finding her. We found her deeper
@@ -28,7 +35,7 @@ in the cave eaten by two cave dwellers. The sister did not expect that [[strider
 in anguish. Perhaps this is not a suitable job for her. We spend the night getting acquainted with the other
 [[darkstriders]], one amongst them being a large [[giant]] called [[Vlobur]]. How I wish to know more about him just to
 shove him in the face of the pompous brute [[Khan]].
-Arriving at the [[Defanged tower]] we found it indeed fully surrounded by a blueish goo that seemed to attract
+Arriving at the [[Defanged Tower]] we found it indeed fully surrounded by a blueish goo that seemed to attract
 lightning from the storm around it. We met with some weird flying faction of the blue [[wyrmblood kobolds]], they
 almost seem crazy but who am I to judge. With the evolution of the Blue dragon, a tempestuous storm has
 taken root and caused this jelly to grow. Although it doesn’t move, it does keep growing if the root is not dealt

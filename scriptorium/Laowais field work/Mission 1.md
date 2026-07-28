@@ -2,7 +2,7 @@ See also: [Report](Report.md)
 Posted by:  [[kingstarlightluca]]
 Posted date: /
 Pdf: [Laowai's field work](Laowai's%20field%20work.pdf)
-Written by: [[Laowai]]
+Written by: [Laowai](Laowai%20Xhê.md)
 Location:
 
 Mission 1 The Green Creek
@@ -11,13 +11,13 @@ Attendants
 - Mister [[Sanford]]
 - Mister [[Michael]]
 Our party departed in the morning hour. Too early if you ask me. From the looks of it most of the party
-were newly signed up with the exception of Miss [[Bluefall]] who led the party. We headed out but seemed
+were newly signed up with the exception of Miss Bluefall who led the party. We headed out but seemed
 to have been witness to an attack made by the [[gnolls]] on the northern walls. According to recent
 reports, this is not common. Adventurers should be warned by travelling north.
 We travelled half a day north-west arriving at an area that could be the [[Resin Creek]] however [[Leona]]
 believes this may be the [[Spirit Garden]]. Our goal was to find an old ruined [[Calaryn Shrine]]. However, we
 did not receive further instructions or were simply not able to decipher these due to the lack of [[Sylvan]]
-speakers in our midst. [[Leona]] had the ‘grand’ idea to follow a squirrel. Apparently the great elk seems to
+speakers in our midst. [Leona](Leona%20Bluefall.md) had the ‘grand’ idea to follow a squirrel. Apparently the great elk seems to
 be able to ‘possess’ certain critters. We were led to a denser part of the forest that left us with a grim
 and darker feeling to us. [[Leona]] doesn’t seem to be insane after all as the Squarrel, together with
 other critters brought us to a wall of vines. From the reports of Mister [[Shelan]], I made an estimation

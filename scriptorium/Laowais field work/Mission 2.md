@@ -1,3 +1,9 @@
+See also: [Report](Report.md)
+Posted by:  [[kingstarlightluca]]
+Posted date: /
+Pdf: [Laowai's field work](Laowai's%20field%20work.pdf)
+Written by: [Laowai](Laowai%20Xhê.md)
+Location: [dreglord depths](dreglord%20depths.md)
 
 Mission 2 Exploring the Ruins of the Past
 Attendants
@@ -22,7 +28,7 @@ horrendous sight, the city had sunken into a frozen swamp. The water was awful, 
 above all, it smelled awful. However, it seems to be filled with a magical effect of various degrees. Some of us felt
 the urge to vomit, while others wanted to swim in it.
 We eventually decided to dive underneath with the help of the goblin Duchess’ magic. Our group consisted of a
-collection of [[Goblin]] servants with names such as [[Onos]] and [thoot](king%20toot.md), some Dreglord nobility and overseers, and us
+collection of [[goblin]] servants with names such as [[Onos]] and [thoot](king%20toot.md), some Dreglord nobility and overseers, and us
 [[Striders]].
 We explored the town, spending some time investigating strange phenomena. Most houses were boarded up, and
 from the damage it seems to have been caused by some sort of slime-based enemy or attack. There were a lot

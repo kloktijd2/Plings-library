@@ -8,7 +8,7 @@ Location: [Underdark](Underdark)
 
 Napkin Crawling Expidition
 A report by [[Natasha Pyoterisk]], First of her Name
-and Trainee of [[Leona]]
+and Trainee of [Leona](Leona%20Bluefall.md)
 We went through wicked corpse to the napkin gang base. We
 encountered bodies hanging from trees on our travels. A primal
 fear envelops us, and [[Achillea]] runs away.

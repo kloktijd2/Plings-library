@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a5535f3140547533",
+        "id": "ff47b9d26a16ba02",
         "type": "tabs",
         "children": [
           {
-            "id": "ddb16951a57d76ce",
+            "id": "c07cdd66b9c6bf12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scriptorium/bounty missions/Bounty Report - Girallons unchained 13-6-30.md",
+                "file": "templates/Event.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bounty Report - Girallons unchained 13-6-30"
-            }
-          },
-          {
-            "id": "6439448ec82e01ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Event"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,43 +204,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6439448ec82e01ff",
+  "active": "c07cdd66b9c6bf12",
   "lastOpenFiles": [
-    "scriptorium/bounty missions/Bounty Report - Girallons unchained 13-6-30.md",
-    "conflict-files-obsidian-git.md",
-    "unsorted/king toot.md",
-    "unsorted/Leona Bluefall.md",
-    "unsorted/Laowai Xhê.md",
-    "scriptorium/pdf/Napkin crawling 13-6-23.pdf",
-    "scriptorium/pdf/Laowai's field work.pdf",
-    "scriptorium/expeditions/Napkin crawling 13-6-23.md",
-    "scriptorium/Laowais field work/Mission 2.md",
-    "scriptorium/Laowais field work/mission 3.md",
-    "scriptorium/Laowais field work/Mission 1.md",
-    "scriptorium/Laowais field work",
-    "knowledge books/why dont you fix this, a collection of problems by pling/fire tornado.md",
-    "knowledge books/why dont you fix this, a collection of problems by pling",
-    "knowledge books/factions of haven/Purple Napkin Gang.md",
-    "Out of character/Players/kloktijd.md",
-    "profiles people of haven/strider profiles/Orchid.md",
-    "knowledge books/The direction of things_ A guide of where to go when you need to be somewhere by Wynnstan/The direction of things_ A guide of where to go when you need to be somewhere.md",
-    "scriptorium/expeditions/Expedition Report - Hotheads an esay on the fire tornado 13-6-25.md",
-    "scriptorium/expeditions/Expedition Report - Recovering The Atlas & Co 13-6-30.md",
-    "scriptorium/bounty missions/Bounty - Grocery Chopping (Hard) 13-7-11.md",
-    "profiles people of haven/strider profiles/theodore.md",
-    "templates/scriptorium reports.md",
-    "knowledge books/A striders guide to Adventuring/Report.md",
-    "scriptorium/pdf/Expedition Report - Hotheads an essay on the fire tornado 13-6-25.pdf",
-    "scriptorium/bounty missions/Untitled.md",
-    "unsorted/Girallon.md",
+    "knowledge books/Modern history and events/shift storm.md",
+    "templates/Event.md",
+    "knowledge books/Modern history and events",
+    "profiles people of haven/strider profiles/Sedressel.md",
+    "Out of character/tags/Race.md",
+    "profiles people of haven/strider profiles/Michael.md",
+    "templates/Strider.md",
+    "profiles people of haven/strider profiles/Kurze.md",
+    "knowledge books/factions of haven/gut cutters.md",
+    "knowledge books/Taxonomical diffrences between diffrent humanoid races/giant.md",
+    "knowledge books/factions of haven/darkstriders.md",
+    "knowledge books/factions of haven/Striders.md",
+    "profiles people of haven/strider profiles/Audry Hound.md",
+    "scriptorium/expeditions/Expedition report Hopefully no mutiny 13-07-26.md",
+    "unsorted/Striders Guild.md",
+    "unsorted/Strider’s Guild.md",
+    "Out of character/uncreated files.md",
+    "Out of character/Wip files.md",
+    "knowledge books/animals of the new material/dragon.md",
+    "Out of character/tags/Event.md",
+    "templates/Race.md",
+    "knowledge books/Taxonomical diffrences between diffrent humanoid races/goblin.md",
     "scriptorium/bounty missions/grocery chopping report 13-6-26.md",
-    "scriptorium/pdf/grocery chopping report.pdf",
-    "Out of character/tags/Problem.md",
-    "knowledge books/a documentation of locations in the new material/The Broken Slough.md",
-    "knowledge books/an encyclopedia of magic/gentle repose.md",
-    "Out of character/tags",
-    "knowledge books/A striders guide to Adventuring",
-    "knowledge books/Untitled 1",
-    "knowledge books/fauna discovered in the new material"
+    "knowledge books/animals of the new material/Great Maw.md",
+    "knowledge books/animals of the new material/Astral Dreadnought.md",
+    "knowledge books/animals of the new material/flesh balloons.md",
+    "unsorted/the great maw.md",
+    "scriptorium/pdf/Bounty - Grocery Chopping (Hard) 13-7-11.pdf",
+    "scriptorium/pdf/~$romatic crusade 1.docx",
+    "knowledge books/Taxonomical diffrences between diffrent humanoid races",
+    "scriptorium/pdf/Chromatic crusade.pdf",
+    "scriptorium/pdf/Chromatic crusade 1.docx",
+    "scriptorium/pdf/Chromatic crusade.docx",
+    "scriptorium/pdf/the broken door.pdf",
+    "scriptorium/pdf/The Broken Door 1.docx",
+    "scriptorium/pdf/The Broken Door.docx"
   ]
 }

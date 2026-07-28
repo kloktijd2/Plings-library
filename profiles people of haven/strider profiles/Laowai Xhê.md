@@ -1,6 +1,7 @@
 ---
 aliases:
   - Laowai
+  - Lao
 ---
 See also: [Striders](Striders.md)
 #wip 

@@ -1,0 +1,52 @@
+See also: [Report](Report.md)
+Posted by:  [[ulbert_alain_]]
+Posted date: 2026-7-17
+Pdf: [the broken door](the%20broken%20door.pdf)
+Written by: [[Rudy]] 
+Location: [Tall Spire](Tall%20Spire.md)
+
+**The Broken Door**
+
+Party: [[Rudy]], [[Vivian]], [[EK]], and [[Wollfrud]]
+
+**Part 1: The Door**
+
+We started as usual when entering [[Tall Spire]] by being teleported to it. Once everybody was present, we began greeting each other and I started introducing myself to [[Vivian]]. We had a nice chat, which concluded with [[Vivian]] offering to give me some therapy in the future. After that was done, we went over what this expedition was about. Previously, when I was here with a different party to clear out a door, something strange happened. The bottom of [[Tall Spire]] became a spiral staircase and at the bottom of it appeared a new floor, different from the rest, with a single broken door that screamed danger. I previously believed that we had already beaten [[Tall Spire]], but apparently not. And so, I assembled a party to beat it for real this time. After the small briefing, we descended the spiral staircase.
+
+When we arrived at the new floor, we saw the door. Looking at it more closely, we could see that it was a blue broken door that was quite impressive. When we approached the door, we all heard a voice in our heads saying: "Are you ready to face the greatest challenge you have ever faced?" Along with that, we needed to prepare ourselves.
+
+When we were all ready, we opened the door and immediately entered. We entered a ridiculously elaborate room. It had a dome ceiling depicting the stars, the three moons, and the sun. But we soon realized something strange. We weren’t teleported like with the other doors in the tower. Then we discovered that this was not an illusion, this was physically part of the tower. We felt anxious with the thought that this tower was made to prepare adventurers to face what was behind this door but we moved forward.
+
+Electricity flew across the room, and the torches lit up. This was quite strange. It seemed that some kind of technology, instead of magic, was at play but there was still magic present. Inside this fancy room there were decorations, furniture, and the like, all made out of stone. The bedding, on the other hand, was real. Among the furniture there were four beds, a massive dining table, and a fireplace. In the front were two statues wearing armor, an hourglass and another bigger door. The door behind us closed and we were locked out. The electricity finally reached the two statues and they began to speak in unison: "We are here to test you, for we can’t allow weak adventurers to face what lies beyond this door."They were testing us for the greatest challenge.
+
+After closer inspection, I could tell that these statues were programmed and didn’t have a mind of their own. Soon after, the statues began to attack and we dealt with them without too much difficulty. They were not weak by any standards; we were just fighting with more numbers and were a good match for them. We did curb-stomp them, though. The only difficulty we had was one of them choking [[EK]]. After the defeat of the two statues, the hourglass turned upside down. We needed to wait eight hours before the door opened. We were able to take a long rest because of this. Food appeared on the dining table, and the fireplace lit up. During our long rest, we investigated the room further and found three murals.
+
+The mural on the right side of the room depicted the sun standing behind a man holding the world. The mural on the left was painted black, representing the new world. And finally, the mural above the door depicted someone placing a tower inside the world.
+
+[[Wollfrud]] played some music with his flute, which was the greatest challenge for our ears that we would face. We took his flute. We felt more confident now after our victory over the statues. It gave us confidence and relief that what was to come wouldn’t be that bad. But we were so wrong. Nothing could have prepared us for what would come. We would soon understand the true meaning of despair.
+
+**Part 2: The begining of despair**
+
+The eight hours went by and the sand in the hourglass was now fully empty. The time had come. We prepared ourselves again and approached the door. On the door appeared four handprints. We touched them and again a voice spoke and asked us three questions: "State your name." "Why do you adventure?" And the last one: "Are you ready to give up your life to save the world?" We all answered yes and so the door opened. We would soon see an ancient horror long forgotten. A glimpse into a world of despair, which is a very fitting way to describe it.
+
+When we entered, the doors closed behind us. On the other side was a beautiful room and0 on the walls was writing which I could luckily understand. It was in Celestial and it said: "[[The First Lesser Glimpse]], slay it." Then, before us was a golden dome wrapped in beautiful light. We were given six seconds to prepare while chains came out of the dome one by one until the dome burst. Then it appeared. The creature we could only presume to be [[the First Lesser Glimpse]]. It had the shape of a horse, its legs were curved, it had grey skin, and a humanoid face. A face with no facial features. It had no mouth, no eyes, and no ears. Its face had strange colors on it. The space around the creature began to distort, and it unleashed a horrifying alien scream. The beginning of the carnage had begun.
+
+When it screamed, strange creatures were summoned, and among them were four that were summoned next to each of us. The fight began. The creature struck first. It attacked [[EK]] since he was flying above the dome. It ascended into the air, walking on a conjured staircase. [[EK]] was struck down to the ground, where he was getting stomped by the creature. His eyes began to blur, and the process of taking his eyes had begun.
+
+We quickly got rid of the summoned creatures except for the special four next to us. They were creatures with humanoid heads with no facial features until one of them suddenly had the same face as [[Vivian]]. We panicked at the prospect that it could copy our abilities. Luckily, that didn’t happen, or at least not that we could see. The fight continued and within twelve seconds [[EK]] was down, and [[the First Lesser Glimpse]] began to assault [[Wollfrud]]. He was extremely lucky to dodge a few hits but even then he took heavy damage. We also realized during the fight that the creature was resistant to almost all elemental damage, immune to non-magical attacks, resistant to radiant damage and even had resistance against magic itself. We were dealing almost no damage to it. Vivian healed EK and his eyes returned to normal.
+
+Moving around the creature was extremely difficult because of its aura and its teleportation gave it a tactical advantage. I tried to trap it with a [[Wall of Force]] dome but it escaped even after my [[Counterspell]]. Soon it came for me and downed me immediately with its countless attacks that almost never missed. [[Vivian]] tried to heal me but it immediately put me down again. It then started to focus on the rest. Luckily, the blur on it was finally gone after [[Wollfrud]] landed a good hit. It then began to tear through their health, bringing both [[EK]] and [[Wollfrud]] extremely low. If it wasn’t for Vivian’s healing, they would both have been dead already.
+
+I mustered all my strength and I got back up but in the meantime the creature had increased its aura so much that it covered the whole room. Moving was impossible unless I wanted to suffer its effects, so I teleported across the room to where the aura didn’t reach. I bombarded the creature with spells but with all its resistances and its successful saving throws, not much damage went through. Even Vivian’s [[Lightning Storm]] did almost nothing. I decided to throw an [[Ice Wall]] around it as a dome to slow it down. Which worked but it didn’t prevent EK from being downed again.
+
+After it blurred [[Wollfrud]]’s eyes, it came after me again. I again threw an Ice Wall at it, which was slowly doing damage, but not enough. It then used [[Destructive Wave]] on the wall and came after me. Luckily, [[EK]] got himself back up again but we were in dire circumstances. Most of us were almost out of spell slots and were really low on health. [[Wollfrud]]’s eyes were also in the process of being taken but we managed to bring the creature to death’s door somehow.
+
+**Part 3: A new hope**
+
+Before [[Wollfrud]]’s eyes could be taken, he remembered that he had [[Lesser Restoration]] and cast it on himself. Should [[the First Lesser Glimpse]] have taken his eyes, we are sure something bad would have happened and we would surely have lost.
+
+We had not won yet. It cast [[Maddening Darkness]], enveloping the entire area in darkness. Had someone started their turn inside it, they would have died because none of us had any health left. But [[Vivian]] was outside the darkness and it was her turn. With all the power she could muster, she dealt the final blow, bringing an end to its life. The creature then turned into dust.
+
+After we won, a voice spoke to us: "You have succeeded in the final test of [[Tall Spire]]." Then we got a small explanation about all of this. This creature was imprisoned here to test adventurers and see if they were ready and capable of defeating this ancient threat. We were then horrified to learn that the reason this one was imprisoned here in the first place was because it was the weakest of its kind. We can’t imagine how strong an even stronger one could be. "Are we supposed to defeat this ancient evil?"
+
+It is highly possible that this entire tower was made to train and test people with the sole purpose of combating this threat. How big must this threat be to threaten the world itself? But those are just some thoughts of my own. A vault opened with treasure inside and that is where this expedition ended.

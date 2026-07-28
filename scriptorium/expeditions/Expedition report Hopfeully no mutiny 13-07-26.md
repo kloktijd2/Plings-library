@@ -3,31 +3,31 @@ Posted by: [kloktijd](kloktijd.md)
 Posted date: 2026-07-13
 Pdf: [Hopefully no mutiny](Hopefully%20no%20mutiny.pdf)
 Written by: [Pling](Pling.md)
-Location: [[dreglord depths]] 
+Location: [dreglord depths](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/dreglord%20depths.md) 
 
 *Hopefully no mutiny
 
-A REPORT BY [[PLING]]
+A REPORT BY [Pling](profiles%20people%20of%20haven/strider%20profiles/Pling.md)
 
 Alternative title: “looking god in the face and reporting him to the proper authority” or “WE KILLED GOD”
 
-party: [[Pling]], [[Gaven]], [[Oxyotl]], [[Sedressel]]
+party: [Pling](profiles%20people%20of%20haven/strider%20profiles/Pling.md), [Gaven](profiles%20people%20of%20haven/strider%20profiles/Gaven.md), [Oxyotl](profiles%20people%20of%20haven/strider%20profiles/Oxyotl.md), [Sedressel](profiles%20people%20of%20haven/strider%20profiles/Sedressel.md)
 
 This mission got out of hand
 
-our plan was to visit my home in the [[dreglord depths]] convince [[king toot]] that a strider [[outpost]] near the [[dreglord depths]] would be a good idea. Then ask him for us to look at the [[Great Maw]] if something is dangerous about it (turns out there is but I will get to that) en report back so the striders could deal with that.
+our plan was to visit my home in the [dreglord depths](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/dreglord%20depths.md) convince [king toot](unsorted/king%20toot.md) that a strider [outpost](outpost) near the [dreglord depths](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/dreglord%20depths.md) would be a good idea. Then ask him for us to look at the [Great Maw](knowledge%20books/animals%20of%20the%20new%20material/Great%20Maw.md) if something is dangerous about it (turns out there is but I will get to that) en report back so the striders could deal with that.
 
 So we traveled. There on our travels we noticed the sky is being really weird (I am nothing this cosmic event in my book “Why don’t you fix this: a list of problems”) (pling note: see also [shift storm](shift%20storm.md))
 
 we also came past a statue my party seem to find of note and a cave of partying striders where we set up camp.
 
-In our second day of travel we saw some ruins I remembered from some reports that it had [[flesh holes]].
+In our second day of travel we saw some ruins I remembered from some reports that it had [flesh holes](flesh%20holes).
 
-We went around it as it is not our mission but we did see some kind of [[flesh balloons]]. One of them tried to eat [Gavens](Gaven.md) rat familiar
+We went around it as it is not our mission but we did see some kind of [flesh balloons](knowledge%20books/animals%20of%20the%20new%20material/flesh%20balloons.md). One of them tried to eat [Gavens](Gaven.md) rat familiar
 
   
 
-we arived back home to meet the [king](king%20toot.md) during the [[festival of the great maw]]
+we arived back home to meet the [king](king%20toot.md) during the [festival of the great maw](festival%20of%20the%20great%20maw)
 
 I had dificulty revering him as I had knowing new information of his rise to the throne.
 
@@ -41,17 +41,17 @@ the deal ended up being that we could as long as the entire party is blindfolded
 
 so we went down with the priests for the ceremony.
 
-Diown there I didn’t notice any problems so we went back up. But in our travels we noticed an off limits cave. With nothing to report we decided to explore it (during toots speech so no one was guarding it) inside there were a great many of the [magic crystals](Great%20maw%20crystals.md) us [[goblins]] mine
+Diown there I didn’t notice any problems so we went back up. But in our travels we noticed an off limits cave. With nothing to report we decided to explore it (during toots speech so no one was guarding it) inside there were a great many of the [magic crystals](Great%20maw%20crystals.md) us [goblins](goblins) mine
 
   
 
 in there we found ruins of some astral society with some kind of reconisence drones
 
-we got spotted by 2 [[spectators]]. With great difficulty we did ending up killing them but it was hard.
+we got spotted by 2 [spectators](spectators). With great difficulty we did ending up killing them but it was hard.
 
 Inside the ruins (specifically the tower) we found some books detailing an emergency defense mechanism using tuning forks that ended up trigering.
 
-Upstairs in the tower we found that tuning fork but alos some animated armors. We struggeled against it and in desperation using one of my healing magics my magic malfuntioned (I think due to the presence and magic corrupting powers of the great maw) which ended up summoning a magic whip and an [[antimagic field]]. That field was our savior so we could explore more. Following the caverns in the direction of the maw. There I saw it
+Upstairs in the tower we found that tuning fork but alos some animated armors. We struggeled against it and in desperation using one of my healing magics my magic malfuntioned (I think due to the presence and magic corrupting powers of the great maw) which ended up summoning a magic whip and an [antimagic field](antimagic%20field). That field was our savior so we could explore more. Following the caverns in the direction of the maw. There I saw it
 
 it was a horrifying sight
 

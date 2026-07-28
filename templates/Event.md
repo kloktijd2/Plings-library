@@ -1,4 +1,4 @@
-tags: [[Event]]
+tags: [Event](templates/Event.md)
 Location:
 Description:
 Status:

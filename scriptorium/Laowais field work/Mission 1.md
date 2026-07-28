@@ -1,5 +1,5 @@
 See also: [Report](Report.md)
-Posted by:  [[kingstarlightluca]]
+Posted by:  [kingstarlightluca](Out%20of%20character/Players/kingstarlightluca.md)
 Posted date: /
 Pdf: [Laowai's field work](Laowai's%20field%20work.pdf)
 Written by: [Laowai](Laowai%20Xhê.md)
@@ -7,21 +7,21 @@ Location:
 
 Mission 1 The Green Creek
 Attendants
-- Miss [[Leona Bluefall]]
-- Mister [[Sanford]]
-- Mister [[Michael]]
+- Miss [Leona Bluefall](profiles%20people%20of%20haven/strider%20profiles/Leona%20Bluefall.md)
+- Mister [Sanford](Sanford)
+- Mister [Michael](profiles%20people%20of%20haven/strider%20profiles/Michael.md)
 Our party departed in the morning hour. Too early if you ask me. From the looks of it most of the party
 were newly signed up with the exception of Miss Bluefall who led the party. We headed out but seemed
-to have been witness to an attack made by the [[gnolls]] on the northern walls. According to recent
+to have been witness to an attack made by the [gnolls](gnolls) on the northern walls. According to recent
 reports, this is not common. Adventurers should be warned by travelling north.
-We travelled half a day north-west arriving at an area that could be the [[Resin Creek]] however [[Leona]]
-believes this may be the [[Spirit Garden]]. Our goal was to find an old ruined [[Calaryn Shrine]]. However, we
-did not receive further instructions or were simply not able to decipher these due to the lack of [[Sylvan]]
+We travelled half a day north-west arriving at an area that could be the [Resin Creek](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Resin%20Creek.md) however [Leona](Leona)
+believes this may be the [Spirit Garden](Spirit%20Garden). Our goal was to find an old ruined [Calaryn Shrine](Calaryn%20Shrine). However, we
+did not receive further instructions or were simply not able to decipher these due to the lack of [Sylvan](Sylvan)
 speakers in our midst. [Leona](Leona%20Bluefall.md) had the ‘grand’ idea to follow a squirrel. Apparently the great elk seems to
 be able to ‘possess’ certain critters. We were led to a denser part of the forest that left us with a grim
-and darker feeling to us. [[Leona]] doesn’t seem to be insane after all as the Squarrel, together with
-other critters brought us to a wall of vines. From the reports of Mister [[Shelan]], I made an estimation
-that these might be related to areas afflicted with an effigy of the [[Hag]]. While first believing these
+and darker feeling to us. [Leona](Leona) doesn’t seem to be insane after all as the Squarrel, together with
+other critters brought us to a wall of vines. From the reports of Mister [Shelan](Shelan), I made an estimation
+that these might be related to areas afflicted with an effigy of the [Hag](Hag). While first believing these
 dangerous areas could be avoided it quickly became clear to us that it was indeed the area we had to
 investigate. After some hard work to get through the vines, we are shown a small stone building
 around a very big and old tree. There were 4 pillars each with a different animal, a wolf, an owl, a cat,
@@ -35,7 +35,7 @@ head in a shallow pool was near a shining blade, the other clasping to a greatsw
 died in combat. Following this room there were 2 smaller rooms where we found notes on information
 about who these people were. These documents will be put at the end of this report.
 Unsure what to think of it we searched for more clues. We arrived at a small barracks with multiple
-beds and bedside chests. In an effort to loot the place, Mister [[Michael]] opened a trapped cabinet
+beds and bedside chests. In an effort to loot the place, Mister [Michael](profiles%20people%20of%20haven/strider%20profiles/Michael.md) opened a trapped cabinet
 opening a trapdoor underneath me. This sent me to fight an underwater creature, I woke back up
 later after CPR. From later studying their personal notes we find out if these were a group of
 fanatical servants of the last king about 200 years ago. Using this temple for a ritual. It is uncertain
@@ -51,45 +51,45 @@ took control of its body alongside the vine enemies from earlier. After finally 
 and powerful wall of force appeared, guarding what seemed to be another effigy. I must send word to
 the higher levelled to deal with this.
 Eventually, we cleared up the mysteries around who these people were, and what they were doing here.
-An expedition sent from the Emperor of the [[Eatherian]] Kingdom.
-- A forward party found a ‘corrupted’ [[celestial]] in this temple
+An expedition sent from the Emperor of the [Eatherian](Eatherian) Kingdom.
+- A forward party found a ‘corrupted’ [celestial](celestial) in this temple
 - Members of the party became friends with the celestials while some researched to kill it.
 - Research did not progress so the Canoness was called.
 - Some members betrayed the group and tried to ran away, they were found and sacrificed but
 the hunter physically aged.
-- The [[celestial]] was eventually executed and their soul bound.
+- The [celestial](celestial) was eventually executed and their soul bound.
 - More betrayals and a fight broke out between the Fanatics and Heretics
 - On the way back from the temple they were attacked by spirits of the land, their bodies
 remain missing.
-[[Ladrielle]]
+[Ladrielle](Ladrielle)
 - Celestial who was corrupted
 - Eventually executed and bound
 - Fallen from Heaven, lost family
 - Converted multiple fanatics
-[[Danielle]]
+[Danielle](Danielle)
 - Part of the initial scouting team
 - Younger
 - close relations to Elise
 - ‘Corrupted’ by the celestial Ladrielle.
 - First declared heretic
 - Ran away before being captured by Elise and executed as part of the ritual
-[[Elise]]
+[Elise](Elise)
 - Part of the initial scouting team
 - Turned heretic after Danielle was executed
 - Older woman
 - Declared a failure and afterwards drowned as a heretic
-[[Jamos]]
+[Jamos](Jamos)
 - Paladin of the king
 - Part of the initial scouting team
 - Originally fanatical until made contact with Ladrielle
 - Condemned with Elise
 - Tried defending her and lost in combat
-[[Alfan]]
+[Alfan](Alfan)
 - gnome researcher
 - Part of the initial scouting team
 - Fanatic who executed and researched the celestial
 - Died to forest spirits.
-[[Canoness Talia]]
+[Canoness Talia](Canoness%20Talia)
 - The leader of the fanatics, arrived later
 - Conducted the multiple executions of the Celestial and the heretics
 - Possible died to the forest spirits.
@@ -99,24 +99,24 @@ their presence in the temple, I may conclude this be the hag.
 “My my, this is amazing. Whilst I do not know exactly what happened here, it seems more of my Ithyrian
 siblings perished here in some way. The primal magic here will be very handy. I shall languish in the past
 horror of this place as I test my plans for it out here.”
-Note 2: A report after the events that happened here. Written most likely by the researcher fanatic [[Alfan]].
+Note 2: A report after the events that happened here. Written most likely by the researcher fanatic [Alfan](Alfan).
 Written within moments of passing to the spirits of the forest.
 “"Follow-up report on the situation of corrupted being. After we had put the being and the girl down we began
-packing up to leave for home. On the way out [[Elise]] attacked me. [[Jamos]] quickly joined her. The two had just
-been more heretics all this time. [[Elise]] yelled at me angry for killing her baby. Whilst I do not know what she
+packing up to leave for home. On the way out [Elise](Elise) attacked me. [Jamos](Jamos) quickly joined her. The two had just
+been more heretics all this time. [Elise](Elise) yelled at me angry for killing her baby. Whilst I do not know what she
 meant, it was futile in the end. My guardsmen restrained her quickly and tossed her in the shallow lake nearby
-drowning her for her sins. [[Jamos]] was harder to put down and we had to kill him there and then as he proved
+drowning her for her sins. [Jamos](Jamos) was harder to put down and we had to kill him there and then as he proved
 too much to restrain. This whole situation weighed heavily on me as we had such supposedly loyal heretics in our
 midst.
-Emperor [[Cahal]] guide us all.
+Emperor [Cahal](Cahal) guide us all.
 Wait what the fuck are all these…?!"”
-Note 3: Written report by [[Jamos]] 7th of Zyrethos 248 PR, Report on daily activities
-"The Canoness extended our stay at this shrine. [[Alfan]] is losing himself in the research, but he must be close
-now. [[Elise]] finally returned with [[Danielle]] yesterday. The two seem to have found new friendship. Don’t care
+Note 3: Written report by [Jamos](Jamos) 7th of Zyrethos 248 PR, Report on daily activities
+"The Canoness extended our stay at this shrine. [Alfan](Alfan) is losing himself in the research, but he must be close
+now. [Elise](Elise) finally returned with [Danielle](Danielle) yesterday. The two seem to have found new friendship. Don’t care
 how. As long as they now stay on task."
-Note 4: Written by [[Jamos]] 29 of Borvyn, 247 PR, report on the first arrival at the temple, fight with corrupted
-celestials, and the contacting of Canoness [[Talia]]
-"Last Monday we arrived at this peculiar shrine. Me, [[Danielle]], [[Elise]] and [[Alfan]] all were taken aback by the
+Note 4: Written by [Jamos](Jamos) 29 of Borvyn, 247 PR, report on the first arrival at the temple, fight with corrupted
+celestials, and the contacting of Canoness [Talia](Talia)
+"Last Monday we arrived at this peculiar shrine. Me, [Danielle](Danielle), [Elise](Elise) and [Alfan](Alfan) all were taken aback by the
 state the statues surrounding it were in. Upon closer inspection it seemed that they were centuries old, but it
 appeared that they had been kept in a good shape. This was strange as the region around the shrine was
 heavily overgrown with vines as if it had been abandoned for ages.

@@ -12,7 +12,7 @@ Attendants
 - Mister [Michael](profiles%20people%20of%20haven/strider%20profiles/Michael.md)
 When leaving Haven to the southeastern gates. As we depart, it became clear to me that this will not be a
 comfortable mission. A heavy snowstorm dawned upon us as we made our way to the agreed-upon place to meet
-the [Dreglord Goblins](knowledge%20books/factions%20of%20haven/Dreglord%20Goblins.md). On our way ,we met with one of the higher-ranked [Striders](knowledge%20books/factions%20of%20haven/Striders.md), the eccentric [Roboros](Roboros), he
+the [Dreglord Goblins](Dreglord%20Goblins.md). On our way ,we met with one of the higher-ranked [Striders](Striders.md), the eccentric [Roboros](Roboros), he
 appeared to have been lost, but assured us he knew the way back to Haven either way. We continued our
 journey without him. We met them after a day of travel, they had set up a caravan around a fire to keep them
 safe from the harsh cold. They seemed to be temporarily snowed in.
@@ -29,7 +29,7 @@ above all, it smelled awful. However, it seems to be filled with a magical effec
 the urge to vomit, while others wanted to swim in it.
 We eventually decided to dive underneath with the help of the goblin Duchess’ magic. Our group consisted of a
 collection of [goblin](knowledge%20books/Taxonomical%20diffrences%20between%20diffrent%20humanoid%20races/goblin.md) servants with names such as [Onos](Onos) and [thoot](king%20toot.md), some Dreglord nobility and overseers, and us
-[Striders](knowledge%20books/factions%20of%20haven/Striders.md).
+[Striders](Striders.md).
 We explored the town, spending some time investigating strange phenomena. Most houses were boarded up, and
 from the damage it seems to have been caused by some sort of slime-based enemy or attack. There were a lot
 of dead bodies at the wall and towers, suggesting a final struggle or final sanctuary took place. The church

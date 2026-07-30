@@ -23,7 +23,7 @@ against those.
 [Achillea](profiles%20people%20of%20haven/strider%20profiles/Achillea.md) and [Kurze](profiles%20people%20of%20haven/strider%20profiles/Kurze.md) got attacked by flying fiends, and they quickly
 dispatched them. Me and [Wynnstan](Wynnstan) weren't as lucky, the insectoid
 fiend envelopping us in a poison cloud. We managed to dispatch
-that one and encountered the [Purple Napkin Gang](knowledge%20books/factions%20of%20haven/Purple%20Napkin%20Gang.md)’s, hereby called
+that one and encountered the [Purple Napkin Gang](Purple%20Napkin%20Gang.md)’s, hereby called
 [PNG](PNG), Hideout.
 The [PNG](PNG)’s hideout was abandoned, with seemingly no human traces
 left. [Achillea](profiles%20people%20of%20haven/strider%20profiles/Achillea.md) investigated the big building, and encountered an

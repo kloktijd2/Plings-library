@@ -16,7 +16,7 @@ This is the main guild for the campaign, and has divisions depending on what kin
 
 - [Fangstriders](Fangstriders): hunting/gathering quests
 - [Ruinstriders](Ruinstriders): explore Ruins, Dungeons, and the like
-- [darkstriders](knowledge%20books/factions%20of%20haven/darkstriders.md): Explore the depths of the Underground
+- [darkstriders](darkstriders.md): Explore the depths of the Underground
 - [Farstriders](Farstriders): explorers/scouts
 - [Steelstriders](Steelstriders): Killing/raiding, target an area to clear
 
@@ -34,4 +34,3 @@ The answers to these questions are exactly what members of the Strider’s guild
   
 
 Not too far from the [guildhall](guildhall) of the Striders Guild an abandoned building can be found that used to belong to the [Dragontooth Saber](Dragontooth%20Saber) guild before they left Haven to start the Verge.
-#wip 

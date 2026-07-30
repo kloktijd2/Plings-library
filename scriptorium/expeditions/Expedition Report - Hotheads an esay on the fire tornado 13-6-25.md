@@ -25,7 +25,7 @@ It immediately reminded me of the floating mountain where we found baby Lapi.
 I may have forgot to say that out loud and only quietly mentioned it to [Wynnstan](Wynnstan%20Blackcrown.md), it’s
 a mistake I will not make again.
 Getting Inside
-For any future [Striders](knowledge%20books/factions%20of%20haven/Striders.md) reading this:
+For any future [Striders](Striders.md) reading this:
 There are multiple ways to safely enter the tornado.
 Our favorite method involved climbing into barrels soaked with water and rolling
 through the flames. Surprisingly effective.

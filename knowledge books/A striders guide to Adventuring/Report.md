@@ -1,1 +1,1 @@
-#wip 
+To help your fellow striders, you could inform them by writing a report. These reports detail what happened during a [[mission]] in a way that is easily comprehensible for other players. These reports can be posted in the [[scriptorium]]

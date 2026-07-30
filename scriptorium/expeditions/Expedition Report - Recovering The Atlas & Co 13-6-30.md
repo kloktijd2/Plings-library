@@ -56,7 +56,7 @@ in calculating the [Jackalope](Jackalope)'s twists and turns to figure out the w
 And is if reading my thoughts immediately started spewing something about always
 killing the rabbits... including [Harengon](Harengon)'s.
 What I learned from this is to never trust [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md)... even though he was right this time.
-We eventually found the bodies of 3 [Striders](knowledge%20books/factions%20of%20haven/Striders.md), later identifying them as [Ber](profiles%20people%20of%20haven/strider%20profiles/Ber.md), [Ado](profiles%20people%20of%20haven/strider%20profiles/Ado.md) and
+We eventually found the bodies of 3 [Striders](Striders.md), later identifying them as [Ber](profiles%20people%20of%20haven/strider%20profiles/Ber.md), [Ado](profiles%20people%20of%20haven/strider%20profiles/Ado.md) and
 [Xanaleth](profiles%20people%20of%20haven/strider%20profiles/Xanaleth.md) their fourth party member seemingly nowhere to be found. I look a bit further
 and found the body of [Orchid](profiles%20people%20of%20haven/strider%20profiles/Orchid.md).
 We trusted [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) to perform [gentle repose](knowledge%20books/an%20encyclopedia%20of%20magic/gentle%20repose.md) on them. We head back and deliver their

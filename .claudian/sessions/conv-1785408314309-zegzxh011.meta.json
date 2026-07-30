@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785408314309-zegzxh011",
+  "providerId": "claude",
+  "title": "test",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785408314309,
+  "updatedAt": 1785408610716,
+  "lastResponseAt": 1785408325553,
+  "sessionId": "90ee92bc-d61f-4ef9-837b-04c109045072",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "90ee92bc-d61f-4ef9-837b-04c109045072"
+  },
+  "currentNote": "scriptorium/pdf/Everplains mythmarches.pdf",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

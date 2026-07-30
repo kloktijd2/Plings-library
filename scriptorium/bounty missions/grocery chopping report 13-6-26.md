@@ -1,4 +1,4 @@
-See also: [Report](Report.md) [gut cutters](knowledge%20books/factions%20of%20haven/gut%20cutters.md)
+See also: [Report](Report.md) [gut cutters](gut%20cutters.md)
 Posted by: [kloktijd](kloktijd.md) 
 Posted date: 2026-6-26
 Pdf:[grocery chopping report](grocery%20chopping%20report.pdf)

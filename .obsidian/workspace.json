@@ -11,24 +11,10 @@
             "id": "c07cdd66b9c6bf12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Event.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Event"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -190,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 536.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,46 +187,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "ai-agent:Chat with Agent": false,
+      "gemini-scribe:Gemini Scribe: Agent mode": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "c07cdd66b9c6bf12",
+  "active": "cd711d42ecc9480d",
   "lastOpenFiles": [
+    "gemini-scribe/Prompts/example-expert.md",
+    "scriptorium/pdf/Everplains mythmarches.pdf",
+    "Chats/chat-2026-07-30T10-42-01-555Z.md",
+    "Chats",
+    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Scheduled-Tasks",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Prompts",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe",
+    "Chats/chat-2026-07-30T10-37-25-484Z.md",
+    "Chats/chat-2026-07-30T10-37-23-819Z.md",
+    "Chats/chat-2026-07-30T10-32-55-555Z.md",
+    "Chats/Test Query.md",
+    "Chats/Test Message Title.md",
+    "profiles people of haven/strider profiles/Laowai Xhê.md",
+    "Out of character/Wip files.md",
+    "knowledge books/A striders guide to Adventuring/Report.md",
+    "knowledge books/factions near haven/darkstriders.md",
+    "knowledge books/factions near haven/Striders.md",
     "knowledge books/Modern history and events/shift storm.md",
     "templates/Event.md",
-    "knowledge books/Modern history and events",
+    "unsorted/Fangstriders.md",
+    "profiles people of haven/strider profiles/Audry Hound.md",
     "profiles people of haven/strider profiles/Sedressel.md",
     "Out of character/tags/Race.md",
     "profiles people of haven/strider profiles/Michael.md",
     "templates/Strider.md",
     "profiles people of haven/strider profiles/Kurze.md",
-    "knowledge books/factions of haven/gut cutters.md",
+    "knowledge books/factions near haven/gut cutters.md",
     "knowledge books/Taxonomical diffrences between diffrent humanoid races/giant.md",
-    "knowledge books/factions of haven/darkstriders.md",
-    "knowledge books/factions of haven/Striders.md",
-    "profiles people of haven/strider profiles/Audry Hound.md",
     "scriptorium/expeditions/Expedition report Hopefully no mutiny 13-07-26.md",
-    "unsorted/Striders Guild.md",
-    "unsorted/Strider’s Guild.md",
-    "Out of character/uncreated files.md",
-    "Out of character/Wip files.md",
-    "knowledge books/animals of the new material/dragon.md",
-    "Out of character/tags/Event.md",
-    "templates/Race.md",
-    "knowledge books/Taxonomical diffrences between diffrent humanoid races/goblin.md",
-    "scriptorium/bounty missions/grocery chopping report 13-6-26.md",
-    "knowledge books/animals of the new material/Great Maw.md",
-    "knowledge books/animals of the new material/Astral Dreadnought.md",
-    "knowledge books/animals of the new material/flesh balloons.md",
-    "unsorted/the great maw.md",
-    "scriptorium/pdf/Bounty - Grocery Chopping (Hard) 13-7-11.pdf",
-    "scriptorium/pdf/~$romatic crusade 1.docx",
-    "knowledge books/Taxonomical diffrences between diffrent humanoid races",
-    "scriptorium/pdf/Chromatic crusade.pdf",
-    "scriptorium/pdf/Chromatic crusade 1.docx",
-    "scriptorium/pdf/Chromatic crusade.docx",
-    "scriptorium/pdf/the broken door.pdf",
-    "scriptorium/pdf/The Broken Door 1.docx",
-    "scriptorium/pdf/The Broken Door.docx"
+    "unsorted/Striders Guild.md"
   ]
 }

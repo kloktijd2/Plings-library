@@ -15,7 +15,7 @@ party: [Pling](profiles%20people%20of%20haven/strider%20profiles/Pling.md), [Gav
 
 This mission got out of hand
 
-our plan was to visit my home in the [dreglord depths](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/dreglord%20depths.md) convince [king toot](unsorted/king%20toot.md) that a strider [outpost](outpost) near the [dreglord depths](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/dreglord%20depths.md) would be a good idea. Then ask him for us to look at the [Great Maw](knowledge%20books/animals%20of%20the%20new%20material/Great%20Maw.md) if something is dangerous about it (turns out there is but I will get to that) en report back so the striders could deal with that.
+our plan was to visit my home in the [dreglord depths](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/dreglord%20depths.md) convince [king toot](king%20toot.md) that a strider [outpost](outpost) near the [dreglord depths](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/dreglord%20depths.md) would be a good idea. Then ask him for us to look at the [Great Maw](knowledge%20books/animals%20of%20the%20new%20material/Great%20Maw.md) if something is dangerous about it (turns out there is but I will get to that) en report back so the striders could deal with that.
 
 So we traveled. There on our travels we noticed the sky is being really weird (I am nothing this cosmic event in my book “Why don’t you fix this: a list of problems”) (pling note: see also [shift storm](shift%20storm.md))
 

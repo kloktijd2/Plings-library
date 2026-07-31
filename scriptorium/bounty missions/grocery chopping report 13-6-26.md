@@ -52,5 +52,5 @@ this cant go on like this
 i will never forgive these [goblin](goblin.md)s but still
 we should try to make peace with them
 i cant see another [goblin](goblin.md) killed
-i plan writing a letter to [king Toot](king%20Toot) imideatly
+i plan writing a letter to [king toot](king%20toot.md) imideatly
 we should try the diplomatic way

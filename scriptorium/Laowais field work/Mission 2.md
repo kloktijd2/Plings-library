@@ -10,10 +10,10 @@ Attendants
 - Miss [Torbera](Torbera)
 - Mister [Albedo](profiles%20people%20of%20haven/strider%20profiles/Albedo.md)
 - Mister [Michael](profiles%20people%20of%20haven/strider%20profiles/Michael.md)
-When leaving Haven to the southeastern gates. As we depart, it became clear to me that this will not be a
+When leaving [[Haven]] to the southeastern gates. As we depart, it became clear to me that this will not be a
 comfortable mission. A heavy snowstorm dawned upon us as we made our way to the agreed-upon place to meet
 the [Dreglord Goblins](Dreglord%20Goblins.md). On our way ,we met with one of the higher-ranked [Striders](Striders.md), the eccentric [Roboros](Roboros), he
-appeared to have been lost, but assured us he knew the way back to Haven either way. We continued our
+appeared to have been lost, but assured us he knew the way back to [[Haven]] either way. We continued our
 journey without him. We met them after a day of travel, they had set up a caravan around a fire to keep them
 safe from the harsh cold. They seemed to be temporarily snowed in.
 Amongst their ranks was Duchess [Karsess](Karsess) of Pink Ruby, she was accompanied by a Lord of the [Draglords](Draglords)
@@ -39,6 +39,6 @@ silently disappearing. What we learned afterwards is that they were silently bei
 happened, as well as a body fully entombed in deep slime. Sabotage caused the building to fall down on us, killing
 the last of the royalty that went down. Now the role of Lord fell to the first of the servants, Lord [Ono](Ono). (read
 “The Tragic Rise and Fall of the Onoian Empire”). Concluding that the hand of evil was at play we ventured
-into the mines. Here we were ambushed, Lord [Ono](Ono) eventually got wounded and was finished off by [Lord Thoot](Lord%20Thoot)
+into the mines. Here we were ambushed, Lord [Ono](Ono) eventually got wounded and was finished off by [lord thoot](king%20toot.md)
 the magnificent. (Read “[The History of Lord Thoot and the Rise of Goblin Feudalism](The%20History%20of%20Lord%20Thoot%20and%20the%20Rise%20of%20Goblin%20Feudalism)”). Afterwards, it all
 became dark as one of those fishfolk slaughtered the party. The cold water filled my lungs and I died.

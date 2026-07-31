@@ -4,7 +4,7 @@ Posted date: 2026-07-26
 Pdf: [Mission - The Lizards Of Us 16-07-26](Mission%20-%20The%20Lizards%20Of%20Us%2016-07-26.pdf) 
 Written by: [Koté](Koté.md) 
 Location: [Juran Tall Woods](Juran%20Tall%20Woods.md)
-#wip 
+
 
 [Achillea](Achillea.md), [Ruby](profiles%20people%20of%20haven/strider%20profiles/Ruby.md), [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) and [I](Koté.md) met up at [Shu Feng Keep](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Shu%20Feng%20Keep.md) in hopes of finally being
 able to help our allies. As we were crossing the river towards [Juran Tallwoods](Juran%20Tall%20Woods.md),

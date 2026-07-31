@@ -8,7 +8,7 @@ Main base: [Haven](Haven.md)
 Notable members: (too long to list see backlinks)
 Description:
 
-Guard Captains without post and exiled nobles quickly cobbled together the [Strider’s Guild](Strider’s%20Guild), which returned a semblance of stability and law. This organization would also enable all of its members to directly aid in the defense of Haven and exploration of the New Material. Head Strider [Audry Hound](profiles%20people%20of%20haven/strider%20profiles/Audry%20Hound.md) oversees all business of the Strider’s Guild and on rare occasions can also be spotted in the field when she is not required in her official function.
+Guard Captains without post and exiled nobles quickly cobbled together the [striders guild](Striders.md), which returned a semblance of stability and law. This organization would also enable all of its members to directly aid in the defense of Haven and exploration of the New Material. Head Strider [Audry Hound](profiles%20people%20of%20haven/strider%20profiles/Audry%20Hound.md) oversees all business of the Strider’s Guild and on rare occasions can also be spotted in the field when she is not required in her official function.
 
   
 
@@ -33,4 +33,4 @@ The answers to these questions are exactly what members of the Strider’s guild
 
   
 
-Not too far from the [guildhall](guildhall) of the Striders Guild an abandoned building can be found that used to belong to the [Dragontooth Saber](Dragontooth%20Saber) guild before they left Haven to start the Verge.
+Not too far from the [guildhall](guildhall) of the Striders Guild an abandoned building can be found that used to belong to the [Dragontooth Saber](Dragontooth%20Saber.md) guild before they left [[Haven]] to start the Verge.

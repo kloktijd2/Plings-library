@@ -10,7 +10,7 @@ Party: [Ruby](profiles%20people%20of%20haven/strider%20profiles/Ruby.md) (me), [
 ](Wynnstan%20Blackcrown.md)
 Objective: Investigate the fire tornado northwest of the Tall Spire.
 Heading Out
-We teleported from [Haven](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Haven.md) to the [Tall Spire](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Tall%20Spire.md) to begin our expedition. There I met a woman
+We teleported from [Haven](Haven.md) to the [Tall Spire](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Tall%20Spire.md) to begin our expedition. There I met a woman
 named [Leona](Leona%20Bluefall.md) wearing a bright blue plate armor. Very cool. [Kurze](Kurze.md) and [Wynnstan](Wynnstan%20Blackcrown.md) were
 already waiting for us.
 From the [Tall Spire](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Tall%20Spire.md), we headed northwest for around two to three hours until we reached

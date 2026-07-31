@@ -1,0 +1,5 @@
+The old shipping docks from on the Prime, have been repurposed to be used as construction yards for whatever needed to be rebuilt after [[The Shift]]. It was renamed [[Waterford]] in honor of its original purpose.
+
+  
+
+The mailing center of the [[Haven Postal Service]] (HPS) had been established in this district as the old building of [[Halycion]] wasn't taken with and this district being more on the outskirts of Haven would allow for easier movement. The postal service from before was very refined and a well linked and interconnected system in the entire country. When [[The Shift]] happened, this structure broke leading to further chaos upon a sudden lack of capability to communicate over distance. However eventually order was restored as the Halycion Postal Office was reshaped into the now Haven Postal Service. Some of the old structure was kept, but most had been changed or repurposed.

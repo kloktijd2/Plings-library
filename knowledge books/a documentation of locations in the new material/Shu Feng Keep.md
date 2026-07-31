@@ -1,5 +1,5 @@
 #location 
-Distance and direction from haven:
+Distance and direction from [[haven]]:
 Descritption:
 Factions:
 

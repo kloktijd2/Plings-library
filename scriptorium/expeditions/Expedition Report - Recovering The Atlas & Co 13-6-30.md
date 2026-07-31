@@ -59,8 +59,8 @@ What I learned from this is to never trust [Necro](profiles%20people%20of%20have
 We eventually found the bodies of 3 [Striders](Striders.md), later identifying them as [Ber](profiles%20people%20of%20haven/strider%20profiles/Ber.md), [Ado](profiles%20people%20of%20haven/strider%20profiles/Ado.md) and
 [Xanaleth](profiles%20people%20of%20haven/strider%20profiles/Xanaleth.md) their fourth party member seemingly nowhere to be found. I look a bit further
 and found the body of [Orchid](profiles%20people%20of%20haven/strider%20profiles/Orchid.md).
-We trusted [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) to perform [gentle repose](knowledge%20books/an%20encyclopedia%20of%20magic/gentle%20repose.md) on them. We head back and deliver their
-bodies to Haven.
+We trusted [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) to perform [gentle repose](gentle%20repose.md) on them. We head back and deliver their
+bodies to [[Haven]].
 Recovering Atlas
 Our second objective was [Atlas](Atlas).
 [Koté](profiles%20people%20of%20haven/strider%20profiles/Koté.md) led us back to the cave where they where ambushed and he had fallen.

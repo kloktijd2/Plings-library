@@ -3,7 +3,7 @@
 
 # The direction of things: A guide of where to go when you need to be somewhere* 
 ## By [Wynnstan Blackcrown](profiles%20people%20of%20haven/strider%20profiles/Wynnstan%20Blackcrown.md) 
-### These are the directions from Haven: 
+### These are the directions from [[Haven]]: 
 [Blood Lake](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Blood%20Lake.md): 5 days South, 1.5 days West 
 [Clearflow Cave](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Clearflow%20Cave.md): 1 day North 
 [Eastern Woodlands](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Eastern%20Woodlands.md): 3 days East by North East 

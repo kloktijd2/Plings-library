@@ -1,0 +1,5 @@
+---
+aliases:
+  - the prime
+---
+#wip 

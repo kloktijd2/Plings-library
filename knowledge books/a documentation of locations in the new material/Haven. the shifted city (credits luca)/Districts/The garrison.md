@@ -1,0 +1,3 @@
+## The Garrison
+
+Not everyone was quite adventurous enough to go out of the city to venture the dangerous [[Fallow Lands]]. Some of those people manned the patrol around [[Haven]] and put together a small garrison where they could train to protect the city in case of a straight attack. There were multiple ex-soldiers who came together to lead this effort. Over time one of them took the lead and became known as [[The Comés]].

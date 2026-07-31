@@ -1,6 +1,6 @@
 # Guildhall
 
-Guard Captains without post and exiled nobles quickly cobbled together the [Strider’s Guild](Strider’s%20Guild), which returned a semblance of stability and law. This organization would also enable all of its members to directly aid in the defense of [[Haven]] and exploration of the New Material. Head Strider [[Audry Hound]] oversees all business of the Strider’s Guild and on rare occasions can also be spotted in the field when she is not required in her official function.
+Guard Captains without post and exiled nobles quickly cobbled together the [striders guild](Striders.md), which returned a semblance of stability and law. This organization would also enable all of its members to directly aid in the defense of [[Haven]] and exploration of the New Material. Head Strider [[Audry Hound]] oversees all business of the Strider’s Guild and on rare occasions can also be spotted in the field when she is not required in her official function.
 
   
 

@@ -32,4 +32,4 @@ The native gods of this realm took pity on us. They assured us that they saved w
 
   
 
-Guard Captains without post and exiled nobles quickly cobbled together the [Strider’s Guild](Strider’s%20Guild), which returned a semblance of stability and law. This organization would also enable all of its members to directly aid in the defense of [[Haven]] and exploration of the [New Material](New%20Material.md). The era of [[Ëlun]]’s Prime came to an end. We decide the direction of the next.
+Guard Captains without post and exiled nobles quickly cobbled together the [Strider’s Guild](Striders), which returned a semblance of stability and law. This organization would also enable all of its members to directly aid in the defense of [[Haven]] and exploration of the [New Material](New%20Material.md). The era of [[Ëlun]]’s Prime came to an end. We decide the direction of the next.

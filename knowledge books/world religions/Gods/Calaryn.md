@@ -3,4 +3,3 @@ Places of worship: [Evergreen park](Evergreen%20park.md) [Temple disctrict](Temp
 Domain: Plants
 Notable followers:
 
-#wip 

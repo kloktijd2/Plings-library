@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ff47b9d26a16ba02",
+        "id": "3062723d83993ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "c07cdd66b9c6bf12",
+            "id": "6b8c3ef8d015924b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "knowledge books/Modern history and events/The Shift.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Shift"
             }
           }
         ]
@@ -192,9 +206,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a70647c7da508110",
+  "active": "6b8c3ef8d015924b",
   "lastOpenFiles": [
+    "unsorted/Strider’s Guild.md",
+    "knowledge books/Modern history and events/The Shift.md",
+    "knowledge books/factions near haven/Striders.md",
+    "knowledge books/a documentation of locations in the new material/Haven. the shifted city (credits luca)/Districts/Guild district.md",
+    "Out of character/uncreated files.md",
+    "ZZ idk yet/Ovastrea.md",
     "knowledge books/world religions/Gods/Calaryn.md",
+    "knowledge books/world religions/Gods/Ëlun.md",
     "knowledge books/a documentation of locations in the new material/Haven. the shifted city (credits luca)/Districts/Temple disctrict.md",
     "knowledge books/why dont you fix this, a collection of problems by pling/Skarn Wyvern.md",
     "knowledge books/factions near haven/Dreglord Goblins.md",
@@ -202,7 +223,6 @@
     "ZZ idk yet/king toot.md",
     "ZZ idk yet/Dragontooth Saber.md",
     "ZZ idk yet",
-    "Out of character/uncreated files.md",
     "profiles people of haven/strider profiles/Laowai Xhê.md",
     "scriptorium/Missions/The lizard of us 26-07-26.md",
     "templates/God.md",
@@ -216,15 +236,9 @@
     "knowledge books/world religions/Gods",
     "knowledge books/world religions",
     "knowledge books/is it a bird. No its a plane/New Material.md",
-    "knowledge books/Modern history and events/The Shift.md",
     "Out of character/tags/Plane.md",
     "knowledge books/is it a bird. No its a plane",
-    "knowledge books/is it a bird. No its a plane/The Prime Material.md",
-    "knowledge books/a documentation of locations in the new material/Haven. the shifted city (credits luca)/Nirant Flow.md",
-    "knowledge books/an encyclopedia of magic/Spell.md",
     "knowledge books/an encyclopedia of magic/Spells",
-    "templates/Spell.md",
-    "knowledge books/a documentation of locations in the new material/dreglord depths.md",
     "knowledge books/a documentation of locations in the new material/Haven. the shifted city (credits luca)/Districts",
     "knowledge books/a documentation of locations in the new material/Haven. the shifted city (credits luca)",
     "scriptorium/pdf/Everplains mythmarches.pdf",

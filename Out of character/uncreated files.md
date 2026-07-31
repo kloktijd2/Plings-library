@@ -11,7 +11,6 @@ WHERE !contains(meta(o).path, ".")
 GROUP BY o AS "Uncreated file"
 
 SORT length(rows) DESC
-LIMIT 200
 ```
 
 

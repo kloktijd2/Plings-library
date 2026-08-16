@@ -7,9 +7,9 @@ Location:
 
 Mission 1 The Green Creek
 Attendants
-- Miss [Leona Bluefall](profiles%20people%20of%20haven/strider%20profiles/Leona%20Bluefall.md)
+- Miss [Leona Bluefall](Leona%20Bluefall.md)
 - Mister [Sanford](Sanford)
-- Mister [Michael](profiles%20people%20of%20haven/strider%20profiles/Michael.md)
+- Mister [Michael](Michael.md)
 Our party departed in the morning hour. Too early if you ask me. From the looks of it most of the party
 were newly signed up with the exception of Miss Bluefall who led the party. We headed out but seemed
 to have been witness to an attack made by the [gnolls](gnolls) on the northern walls. According to recent
@@ -35,7 +35,7 @@ head in a shallow pool was near a shining blade, the other clasping to a greatsw
 died in combat. Following this room there were 2 smaller rooms where we found notes on information
 about who these people were. These documents will be put at the end of this report.
 Unsure what to think of it we searched for more clues. We arrived at a small barracks with multiple
-beds and bedside chests. In an effort to loot the place, Mister [Michael](profiles%20people%20of%20haven/strider%20profiles/Michael.md) opened a trapped cabinet
+beds and bedside chests. In an effort to loot the place, Mister [Michael](Michael.md) opened a trapped cabinet
 opening a trapdoor underneath me. This sent me to fight an underwater creature, I woke back up
 later after CPR. From later studying their personal notes we find out if these were a group of
 fanatical servants of the last king about 200 years ago. Using this temple for a ritual. It is uncertain

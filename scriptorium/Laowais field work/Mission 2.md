@@ -8,8 +8,8 @@ Location: [dreglord depths](dreglord%20depths.md)
 Mission 2 Exploring the Ruins of the Past
 Attendants
 - Miss [Torbera](Torbera)
-- Mister [Albedo](profiles%20people%20of%20haven/strider%20profiles/Albedo.md)
-- Mister [Michael](profiles%20people%20of%20haven/strider%20profiles/Michael.md)
+- Mister [Albedo](Albedo.md)
+- Mister [Michael](Michael.md)
 When leaving [[Haven]] to the southeastern gates. As we depart, it became clear to me that this will not be a
 comfortable mission. A heavy snowstorm dawned upon us as we made our way to the agreed-upon place to meet
 the [Dreglord Goblins](Dreglord%20Goblins.md). On our way ,we met with one of the higher-ranked [Striders](Striders.md), the eccentric [Roboros](Roboros), he

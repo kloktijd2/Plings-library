@@ -7,11 +7,11 @@ Location: [dreglord depths](knowledge%20books/a%20documentation%20of%20locations
 
 *Hopefully no mutiny
 
-A REPORT BY [Pling](profiles%20people%20of%20haven/strider%20profiles/Pling.md)
+A REPORT BY [Pling](Pling.md)
 
 Alternative title: “looking god in the face and reporting him to the proper authority” or “WE KILLED GOD”
 
-party: [Pling](profiles%20people%20of%20haven/strider%20profiles/Pling.md), [Gaven](profiles%20people%20of%20haven/strider%20profiles/Gaven.md), [Oxyotl](profiles%20people%20of%20haven/strider%20profiles/Oxyotl.md), [Sedressel](profiles%20people%20of%20haven/strider%20profiles/Sedressel.md)
+party: [Pling](Pling.md), [Gaven](Gaven.md), [Oxyotl](Oxyotl.md), [Sedressel](Sedressel.md)
 
 This mission got out of hand
 

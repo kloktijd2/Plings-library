@@ -2,24 +2,24 @@
 Posted by: [anormalduck](anormalduck.md) 
 Posted date: 2026-6-30
 Pdf: [Expedition Report - Recovering The Atlas & Co 13-6-30](Expedition%20Report%20-%20Recovering%20The%20Atlas%20&%20Co%2013-6-30.md)
-Written by: [Ruby](profiles%20people%20of%20haven/strider%20profiles/Ruby.md)
+Written by: [Ruby](Ruby.md)
 Location:  
 
 Strider's Report - Recovery of our Fallen Striders
-Party: [Ruby](profiles%20people%20of%20haven/strider%20profiles/Ruby.md) (me), [Achillea](profiles%20people%20of%20haven/strider%20profiles/Achillea.md), [Koté](profiles%20people%20of%20haven/strider%20profiles/Koté.md), [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md)
+Party: [Ruby](Ruby.md) (me), [Achillea](Achillea.md), [Koté](Koté.md), [Necro](Necro.md)
 Objective: Recover the bodies of our fallen Striders and, if possible, [Atlas](Atlas).
 Setting Out
-I met up with [Achillea](profiles%20people%20of%20haven/strider%20profiles/Achillea.md), [Koté](profiles%20people%20of%20haven/strider%20profiles/Koté.md) and [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) for what was easily one of the least cheerful
+I met up with [Achillea](Achillea.md), [Koté](Koté.md) and [Necro](Necro.md) for what was easily one of the least cheerful
 expeditions I've been on.
-[Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) made it very clear he wasn't interested in recovering our younger colleagues. His
+[Necro](Necro.md) made it very clear he wasn't interested in recovering our younger colleagues. His
 only concern was finding [Atlas](Atlas)' book. As I figured out from recent visits, someone called
 the [Neverqueen](Neverqueen) told him to retrieve it. I still don't know who that is, but I don't like it,
 whether real or made up it’s unsettling.
-The journey itself was fairly uneventful at first. [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) spent most of it staring at and
+The journey itself was fairly uneventful at first. [Necro](Necro.md) spent most of it staring at and
 collecting insects instead of talking to people.
 We eventually made camp beside a large termite nest... what a coincidence thanks
-[Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md).
-As if by fate, [Achillea](profiles%20people%20of%20haven/strider%20profiles/Achillea.md) somehow found an anteater wandering nearby that happily
+[Necro](Necro.md).
+As if by fate, [Achillea](Achillea.md) somehow found an anteater wandering nearby that happily
 helped lessen our little termite problem.
 During the night, a single ivory-colored feather drifted down from above. I took a closer
 look and I'm fairly certain it wasn't from this plane.
@@ -27,7 +27,7 @@ Into the Mist
 The following day we entered a forest covered in thick fog.
 Eventually we spotted several large figures moving through the mist. They turned out to
 be [mist elementals](mist%20elementals). They spoke [Celestial](Celestial). I recognized the language but sadly couldn't
-understand any of it. Thankfully [Koté](profiles%20people%20of%20haven/strider%20profiles/Koté.md) translated for us.
+understand any of it. Thankfully [Koté](Koté.md) translated for us.
 The elementals guided us to an enormous [jackalope](jackalope). A giant rabbit with antlers.
 It introduced itself by saying it would lead us along the same path our "failures" had
 taken. Calling our colleagues failures who is he to judge. I already don’t like him, but if
@@ -51,20 +51,20 @@ away from it, they stopped completely.
 It was a trick or at least a cruel test, perhaps we would have been rewarded. But more
 likely than not we would not have arrived at our destination. Zealot f--k.
 Don't stay on the path!
-[Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) of all people somehow had a moment of sanity and plotted our direction to walk
+[Necro](Necro.md) of all people somehow had a moment of sanity and plotted our direction to walk
 in calculating the [Jackalope](Jackalope)'s twists and turns to figure out the way to go.
 And is if reading my thoughts immediately started spewing something about always
 killing the rabbits... including [Harengon](Harengon)'s.
-What I learned from this is to never trust [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md)... even though he was right this time.
-We eventually found the bodies of 3 [Striders](Striders.md), later identifying them as [Ber](profiles%20people%20of%20haven/strider%20profiles/Ber.md), [Ado](profiles%20people%20of%20haven/strider%20profiles/Ado.md) and
-[Xanaleth](profiles%20people%20of%20haven/strider%20profiles/Xanaleth.md) their fourth party member seemingly nowhere to be found. I look a bit further
-and found the body of [Orchid](profiles%20people%20of%20haven/strider%20profiles/Orchid.md).
-We trusted [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) to perform [gentle repose](gentle%20repose.md) on them. We head back and deliver their
+What I learned from this is to never trust [Necro](Necro.md)... even though he was right this time.
+We eventually found the bodies of 3 [Striders](Striders.md), later identifying them as [Ber](Ber.md), [Ado](Ado.md) and
+[Xanaleth](Xanaleth.md) their fourth party member seemingly nowhere to be found. I look a bit further
+and found the body of [Orchid](Orchid.md).
+We trusted [Necro](Necro.md) to perform [gentle repose](gentle%20repose.md) on them. We head back and deliver their
 bodies to [[Haven]].
 Recovering Atlas
 Our second objective was [Atlas](Atlas).
-[Koté](profiles%20people%20of%20haven/strider%20profiles/Koté.md) led us back to the cave where they where ambushed and he had fallen.
-An [Alarm spell](Alarm%20spell) had been placed near the entrance, but I managed to dispel it before we
+[Koté](Koté.md) led us back to the cave where they where ambushed and he had fallen.
+An [Alarm](Alarm.md) spell had been placed near the entrance, but I managed to dispel it before we
 entered unnoticed. Inside were several [meenlocks](meenlocks), a [druid](druid) and [Atlas](Atlas).
 Or at least what remained of him.
 He barely resembled the person I remembered.
@@ -72,7 +72,7 @@ Parts of his body had hardened into something like a carapace. His posture had b
 hunched. One eye had lost all color while the other oozed slime. His clothes were little
 more than rags. Whatever happened to him... It wasn't quick. (I’m sorry friend.)
 Surprisingly they didn't put up a huge fight, and we quickly made short work of them.
-[Koté](profiles%20people%20of%20haven/strider%20profiles/Koté.md) wiping up a giant storm spell to finish off all the enemies... with the sole exception
+[Koté](Koté.md) wiping up a giant storm spell to finish off all the enemies... with the sole exception
 of [Atlas](Atlas) of course. Necro [killed](killed) [Atlas](Atlas)’s controlled body and we brought him home too,
 unfortunately he won’t be coming back.
 Seeing that this journey over the past days has taken not only a physical but also an

@@ -28,7 +28,7 @@ i should be more worried
 it died, we took the mushrooms
 there was more
 on the tent of my friend
-we burned it, poor [theodore](profiles%20people%20of%20haven/strider%20profiles/theodore.md)
+we burned it, poor [theodore](theodore.md)
 but only then it really started
 on the way back we got attacked by other [goblin](goblin.md)s
 my kin, my family, my brothers
@@ -39,7 +39,7 @@ and those that died died in service of [The Great Maw](Great%20Maw)
 but these folk
 they seemed angry, they saw me as below them
 talking about turning me
-they killed [Haru](profiles%20people%20of%20haven/strider%20profiles/Haru.md) the fast
+they killed [Haru](Haru.md) the fast
 cut her gut while she was down
 i was in a blind rage
 i wanted to kill them

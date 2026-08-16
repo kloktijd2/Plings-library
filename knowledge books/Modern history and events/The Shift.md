@@ -10,7 +10,7 @@ Description:
 
 [[Ëlun]].
 
-For eons, it sacrificed much of itself to protect this Realm from extraplanar entities, like [[fiends]], [[fey]] and [[aberrations]]. It let its subjects and the other inhabitants of the Prime govern themselves. 
+For eons, it sacrificed much of itself to protect this Realm from extraplanar entities, like [[fiends]], [[fey]] and [Abbarations](Abbaration.md). It let its subjects and the other inhabitants of the Prime govern themselves. 
 
 Suddenly, the realm began to collapse. 
 

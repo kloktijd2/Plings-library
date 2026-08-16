@@ -11,8 +11,8 @@ A report by [Natasha Pyoterisk](Natasha%20Pyoterisk), First of her Name
 and Trainee of [Leona](Leona%20Bluefall.md)
 We went through wicked corpse to the napkin gang base. We
 encountered bodies hanging from trees on our travels. A primal
-fear envelops us, and [Achillea](profiles%20people%20of%20haven/strider%20profiles/Achillea.md) runs away.
-[Kurze](profiles%20people%20of%20haven/strider%20profiles/Kurze.md) goes after her, and we split up. During this, we get
+fear envelops us, and [Achillea](Achillea.md) runs away.
+[Kurze](Kurze.md) goes after her, and we split up. During this, we get
 attacked by a bunch of fiends. Me and [Wynnstan](Wynnstan%20Blackcrown.md) get attacked by an
 [insectoid](insectoid) with four arms and a trident. This one seemingly is
 resistant against elemental attacks like fire, lightning and
@@ -20,13 +20,13 @@ cold.He also looks like he is immune to poison and acid, since he
 had something akin to acid dripping from his mouth. He does get
 hurt by normal weapons, seemingly having no special resistance
 against those.
-[Achillea](profiles%20people%20of%20haven/strider%20profiles/Achillea.md) and [Kurze](profiles%20people%20of%20haven/strider%20profiles/Kurze.md) got attacked by flying fiends, and they quickly
+[Achillea](Achillea.md) and [Kurze](Kurze.md) got attacked by flying fiends, and they quickly
 dispatched them. Me and [Wynnstan](Wynnstan) weren't as lucky, the insectoid
 fiend envelopping us in a poison cloud. We managed to dispatch
 that one and encountered the [Purple Napkin Gang](Purple%20Napkin%20Gang.md)’s, hereby called
 [PNG](PNG), Hideout.
 The [PNG](PNG)’s hideout was abandoned, with seemingly no human traces
-left. [Achillea](profiles%20people%20of%20haven/strider%20profiles/Achillea.md) investigated the big building, and encountered an
+left. [Achillea](Achillea.md) investigated the big building, and encountered an
 unconscious man with a napkin and a glyph of warding. I shot the
 guy in the chest with my longbow, triggering the glyph from a safe
 distance. We then go and head down the stairs.

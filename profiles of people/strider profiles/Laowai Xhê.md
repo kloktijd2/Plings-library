@@ -8,6 +8,6 @@ See also: [Striders](Striders.md)
 played by: [kingstarlightluca](kingstarlightluca.md)
 pronouns: She/her
 class: [[Monk]]/[[Ranger]]
-race: [yuanti](yuanti)
+race: [Yuan ti](Yuan%20ti.md)
 age:
 #wip 

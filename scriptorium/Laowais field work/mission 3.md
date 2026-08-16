@@ -7,14 +7,14 @@ Location: [Defanged Tower](Defanged%20Tower.md)
 
 Mission 3 Wind Broken
 Adventurers:
-Lady [Laowai Xhê](profiles%20people%20of%20haven/strider%20profiles/Laowai%20Xhê.md)
-Strider [Albedo](profiles%20people%20of%20haven/strider%20profiles/Albedo.md) (Backflip: VII, Failed: I)
-Strider [Michael](profiles%20people%20of%20haven/strider%20profiles/Michael.md)
+Lady [Laowai Xhê](Laowai%20Xhê.md)
+Strider [Albedo](Albedo.md) (Backflip: VII, Failed: I)
+Strider [Michael](Michael.md)
 Strider [Achillae](Achillea.md)
 We set out at the Northern gate to make our way to the [Defanged Tower](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Defanged%20Tower.md). According to reports, a storm has
 taken root there. Electrical currents seem to hold the tower in its grasp, and [Striders](Striders.md) were sent in to
 investigate.
-However, our expedition was led by the Strider [Albedo](profiles%20people%20of%20haven/strider%20profiles/Albedo.md), while his looks and skill with the blade and bow show
+However, our expedition was led by the Strider [Albedo](Albedo.md), while his looks and skill with the blade and bow show
 that of a great near-perfect warrior, his skill in map reading leaves much to be desired. We went off coarse
 and while after a day we should have reached the [darkstrider](darkstrider) cave with the copper statue guarding the
 surrounding planes. We seemed to be 3 quarters a day going North-West, ending up at an encampment of
@@ -34,7 +34,7 @@ adventurer named [Curiosity](Curiosity), and her sister ‘[Fashion](Fashion)’
 in the cave eaten by two cave dwellers. The sister did not expect that [Striders](Striders.md) would be in danger and cried out
 in anguish. Perhaps this is not a suitable job for her. We spend the night getting acquainted with the other
 [darkstriders](darkstriders.md), one amongst them being a large [giant](knowledge%20books/Taxonomical%20diffrences%20between%20diffrent%20humanoid%20races/giant.md) called [Vlobur](Vlobur). How I wish to know more about him just to
-shove him in the face of the pompous brute [Khan](profiles%20people%20of%20haven/strider%20profiles/Khan.md).
+shove him in the face of the pompous brute [Khan](Khan.md).
 Arriving at the [Defanged Tower](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Defanged%20Tower.md) we found it indeed fully surrounded by a blueish goo that seemed to attract
 lightning from the storm around it. We met with some weird flying faction of the blue [wyrmblood kobolds](wyrmblood%20kobolds), they
 almost seem crazy but who am I to judge. With the evolution of the Blue dragon, a tempestuous storm has

@@ -6,9 +6,9 @@ Written by: [Koté](Koté.md)
 Location: [Juran Tall Woods](Juran%20Tall%20Woods.md)
 
 
-[Achillea](Achillea.md), [Ruby](profiles%20people%20of%20haven/strider%20profiles/Ruby.md), [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) and [I](Koté.md) met up at [Shu Feng Keep](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Shu%20Feng%20Keep.md) in hopes of finally being
+[Achillea](Achillea.md), [Ruby](Ruby.md), [Necro](Necro.md) and [I](Koté.md) met up at [Shu Feng Keep](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Shu%20Feng%20Keep.md) in hopes of finally being
 able to help our allies. As we were crossing the river towards [Juran Tallwoods](Juran%20Tall%20Woods.md),
-[Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) suddenly gets hit by a[ flaming frog statue](%20flaming%20frog%20statue) that fell from the sky (pling note: see [shift storm](shift%20storm.md)). That
+[Necro](Necro.md) suddenly gets hit by a[ flaming frog statue](%20flaming%20frog%20statue) that fell from the sky (pling note: see [shift storm](shift%20storm.md)). That
 has been a phenomenon that is happening more frequently lately as well as a
 sort of effect in the sky that illuminates it in a dance full of bright colors.
 Luckily we crossed the river without any more of such issues. It wasn’t long
@@ -33,21 +33,21 @@ towers and interrogate one of the guards. We got some information about the 3
 leaders and that the only way inside of the fortress is through the tunnels
 that they dug. Back in the guard tower we had also spotted a gear that when
 turned would flood said tunnels as a defensive mechanism. After we extracted
-all of the information we could, [Achillea](profiles%20people%20of%20haven/strider%20profiles/Achillea.md), [Ruby](profiles%20people%20of%20haven/strider%20profiles/Ruby.md) and I went through the tunnels
-and [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) waited outside of the wall with his [velociraptors](velociraptors).
+all of the information we could, [Achillea](Achillea.md), [Ruby](Ruby.md) and I went through the tunnels
+and [Necro](Necro.md) waited outside of the wall with his [velociraptors](velociraptors).
 We snuck around and managed to infiltrate the main hall by climbing through a
 bedroom window. We worked methodically, starting from the basement. In the
-basement we found snake pits, where [Achillea](profiles%20people%20of%20haven/strider%20profiles/Achillea.md) managed to assassinate the
-unsuspecting sleeping [yuanti](yuanti) before they became a threat. We moved further up
+basement we found snake pits, where [Achillea](Achillea.md) managed to assassinate the
+unsuspecting sleeping [Yuanti](Yuan%20ti.md) before they became a threat. We moved further up
 again and cleared the floor with the bedrooms and then headed to the first
 floor. We heard several voices inside and recognised that one of them was one
-of the leaders. I later learned that [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) was keeping himself busy by
+of the leaders. I later learned that [Necro](Necro.md) was keeping himself busy by
 wrestling giant [coral snakes](coral%20snakes) and hunting even more snakes. It seems like he
 truly enjoyed himself. After some preparation we stormed the room and took
 care of the hostiles.
 Next, we snuck towards the back of the mess hall. I looked through a crack to
 see inside but all I saw was an eye staring back at me. This was one of the
-leaders, the unhinged one the guard warned us about. [Achillea](profiles%20people%20of%20haven/strider%20profiles/Achillea.md) thought of a
+leaders, the unhinged one the guard warned us about. [Achillea](Achillea.md) thought of a
 smart plan on the spot and cleverly managed to trick the leader into thinking
 I was the leader we had just killed. The distraction lasted long enough for us
 to be able to quickly get inside and finish her off.
@@ -65,7 +65,7 @@ towers outside. We waited there until the last leader arrived. We knew from the
 interrogation that it would take a while before the last one arrived. But when
 he did, he made the mistake of coming alone so it wasn’t before long that we
 took him out too.
-Apparently when all of this was going down [Necro](profiles%20people%20of%20haven/strider%20profiles/Necro.md) hunted more and more snakes,
+Apparently when all of this was going down [Necro](Necro.md) hunted more and more snakes,
 as well as making friends with some of the guards it seemed. He spoke of many
 tales involving his snakes and showing off with the tricks he taught the
 velociraptors. Somehow I got the impression that he was being truthful about

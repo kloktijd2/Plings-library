@@ -6,7 +6,7 @@ Written by: [Ruby](Ruby.md)
 Location: [Tall Spire](Tall%20Spire.md)
 
  Strider's Report – Fire Tornado (Hotheads)
-Party: [Ruby](profiles%20people%20of%20haven/strider%20profiles/Ruby.md) (me), [Leona](Leona%20Bluefall.md), [Kurze](Kurze.md), [Wynnstan
+Party: [Ruby](Ruby.md) (me), [Leona](Leona%20Bluefall.md), [Kurze](Kurze.md), [Wynnstan
 ](Wynnstan%20Blackcrown.md)
 Objective: Investigate the fire tornado northwest of the Tall Spire.
 Heading Out
@@ -67,11 +67,11 @@ finished looking around.
 It happily wandered toward the sphere.
 In hindsight...
 That might not have been my smartest idea.
-The [dragon](dragon.md)
+The [Dragon](Dragon.md)
 Something inside the sphere woke up.
 The sphere cracked open.
 And out crawled...
-A SUN [dragon](dragon.md).
+A SUN [Dragon](Dragon.md).
 It looked different from most dragons I've heard about. More beast than person. It
 didn't look interested in talking.
 It immediately went after Shamir.
@@ -81,7 +81,7 @@ I quickly ushered [Wynnstan](Wynnstan%20Blackcrown.md) and [Kurze](Kurze.md) int
 teleported through the tornado to our horses.
 We rode as fast as we could.
 Unfortunately...
-The [dragon](dragon.md) was faster.
+The [Dragon](Dragon.md) was faster.
 Much faster.
 If [Leona](Leona%20Bluefall.md) hadn't used an incredibly rare magical item to summon a [Roc](Roc), I don't think we
 would've made it back to the [Tall Spire](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Tall%20Spire.md).

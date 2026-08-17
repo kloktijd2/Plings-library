@@ -30,33 +30,9 @@
               "icon": "diff",
               "title": "Diff: workspace.json  (Working Tree)"
             }
-          },
-          {
-            "id": "282f43397b0eb942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "282f43397b0eb942",
+  "active": "a70647c7da508110",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "scriptorium/bounty missions/Bounty - Mission report - grocery chopping 13-08-10.md",

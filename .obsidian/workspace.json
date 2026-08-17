@@ -4,20 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "3062723d83993ef7",
+        "id": "7c34836c73cac8e9",
         "type": "tabs",
         "children": [
           {
-            "id": "6b8c3ef8d015924b",
+            "id": "00e7d6ff846154d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "unsorted/Leona Bluefall.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Leona Bluefall"
+            }
+          },
+          {
+            "id": "4dbe48098897fb51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "scriptorium/pdf/Everplains mythmarches.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Everplains mythmarches"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,9 +64,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -51,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wiki page",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 606.5
+    "width": 350.5
   },
   "right": {
     "id": "55296f26bc0b689a",
@@ -154,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scriptorium/expeditions/Expedition Report - Hotheads an esay on the fire tornado 13-6-25.md",
+                "file": "scriptorium/Laowais field work/mission 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Expedition Report - Hotheads an esay on the fire tornado 13-6-25"
+              "title": "Outline of mission 3"
             }
           },
           {
@@ -178,57 +203,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "6b8c3ef8d015924b",
+  "active": "4dbe48098897fb51",
   "lastOpenFiles": [
-    "Out of character/Overview.md",
-    "Out of character/uncreated files.md",
-    "knowledge books/animals of the new material/Creature types/Dragon.md",
-    "knowledge books/animals of the new material/Creature types/Abbaration.md",
-    "knowledge books/Modern history and events/The Shift.md",
-    "knowledge books/animals of the new material/Creature types/aberrations.md",
-    "knowledge books/animals of the new material/Dragons/red dragon.md",
-    "knowledge books/animals of the new material/Dragons",
+    "scriptorium/Laowais field work/mission 3.md",
+    "templates/Race.md",
+    "templates/God.md",
+    "templates/Event.md",
     "templates/Creature.md",
-    "knowledge books/an encyclopedia of magic/Spells/Alarm.md",
-    "scriptorium/expeditions/Expedition Report - Recovering The Atlas & Co 13-6-30.md",
-    "scriptorium/Laowais field work/Mission 5.md",
-    "profiles of people/strider profiles/Achillea.md",
-    "knowledge books/factions near haven/Striders.md",
-    "knowledge books/Taxonomical diffrences between diffrent humanoid races/Yuan ti.md",
-    "knowledge books/animals of the new material/Astral Dreadnought.md",
-    "knowledge books/animals of the new material/Creature types",
-    "README.md",
-    "profiles of people/The wizards of haven/Zoviar.md",
-    "profiles of people/The wizards of haven/Ovastrea.md",
-    "profiles of people/Prominent political figures",
-    "Untitled",
-    "profiles of people/The wizards of haven",
-    "knowledge books/factions near haven/Notable people/Untitled.md",
-    "knowledge books/factions near haven/Notable people",
-    "knowledge books/a documentation of locations in the new material/Haven. the shifted city (credits luca)/Untitled",
-    "Out of character/tags/Faction.md",
+    "scriptorium/pdf/the broken door.pdf",
+    "scriptorium/pdf/The Broken Door 1.docx",
+    "scriptorium/pdf/Mission - The Lizards Of Us 16-07-26.pdf",
+    "scriptorium/pdf/Hopefully no mutiny.pdf",
+    "scriptorium/pdf/Expedition_ Hopefully no mutiny.pdf",
+    "scriptorium/pdf/Expedition - Frost Giants Visit.pdf",
+    "scriptorium/pdf/Everplains mythmarches.pdf",
+    "scriptorium/pdf/Chromatic crusade.pdf",
+    "scriptorium/pdf/Chromatic crusade.docx",
+    "scriptorium/expeditions/The broken door 13-7-17.md",
+    "scriptorium/expeditions/Expedition report Hopfeully no mutiny 13-07-26.md",
+    "scriptorium/expeditions/Expedition report Hopefully no mutiny 13-07-26.md",
+    "scriptorium/expeditions/Expedition Frost giants visit 13-7-20.md",
+    "scriptorium/expeditions/Chromatic crusade 13-22-6.md",
     "scriptorium/Missions/The lizard of us 26-07-26.md",
-    "knowledge books/a documentation of locations in the new material/Makutu woods.md",
-    "ZZ idk yet/The Fallow Lands.md",
-    "Out of character/Lore questions.md",
-    "Out of character/Wip files.md",
-    "profiles of people/The wizards of haven/Pholenor.md",
-    "Out of character/Untitled",
-    "ZZ idk yet",
-    "knowledge books/world religions/Gods"
+    "scriptorium/Missions",
+    "scriptorium/Laowais field work/Mission 5.md",
+    "scriptorium/Laowais field work/Mission 4.md",
+    "profiles of people/strider profiles/theodore.md",
+    "profiles of people/strider profiles/Zea.md",
+    "profiles of people/strider profiles/Xanaleth.md",
+    "profiles of people/strider profiles/Wynnstan Blackcrown.md",
+    "profiles of people/strider profiles/Wollfrud.md",
+    "profiles of people/strider profiles/Vivian.md",
+    "profiles of people/strider profiles/Sedressel.md",
+    "profiles of people/strider profiles/Ruby.md",
+    "profiles of people/strider profiles/Rakita.md",
+    "profiles of people/strider profiles/Pling.md",
+    "profiles of people/strider profiles/Oxyotl.md",
+    "profiles of people/strider profiles/Orchid.md",
+    "profiles of people/strider profiles/Necro.md"
   ]
 }

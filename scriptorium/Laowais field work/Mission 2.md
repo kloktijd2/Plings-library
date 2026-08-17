@@ -16,7 +16,7 @@ the [Dreglord Goblins](Dreglord%20Goblins.md). On our way ,we met with one of th
 appeared to have been lost, but assured us he knew the way back to [[Haven]] either way. We continued our
 journey without him. We met them after a day of travel, they had set up a caravan around a fire to keep them
 safe from the harsh cold. They seemed to be temporarily snowed in.
-Amongst their ranks was Duchess [Karsess](Karsess) of Pink Ruby, she was accompanied by a Lord of the [Draglords](Draglords)
+Amongst their ranks was Duchess [Karsess](Karsess) of Pink Ruby, she was accompanied by a Lord of the [Draglords](Dreglord%20Goblins.md)
 [goblin](knowledge%20books/Taxonomical%20diffrences%20between%20diffrent%20humanoid%20races/goblin.md). Her flair was that of a fair lady and thus should be treated that way. I had an easy time getting to
 their good side. It is imperative to treat them like royalty, although mere goblins they have artefacts and gold
 that might be increased on their whims.

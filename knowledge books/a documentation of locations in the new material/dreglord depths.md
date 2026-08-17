@@ -10,5 +10,3 @@ As a [Dreglord Goblins](Dreglord%20Goblins.md), your life in the city really dep
 The middle class see the daylight more, living on higher levels and often going outside the crater as aides and assistants to the nobility. They work various jobs in all shapes and sizes and can some days go to bed hungry, and on other celebrate their god with feasts and debauchery. 
 
 The nobility is the class that we know most off. They are treacherous, always trying to get one over each other. Contradictingly they are also very much loyal to the system. Change almost never trickles down. Its these nobility that are entrusted with various tasks, expeditions, and meetings with other factions.
-
-#wip 

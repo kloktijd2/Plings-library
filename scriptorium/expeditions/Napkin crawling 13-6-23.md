@@ -4,7 +4,7 @@ Posted date: 2026-6-13
 Pdf: [Napkin crawling 13-6-23](Napkin%20crawling%2013-6-23.pdf)
 Written by: [Natasha Pyoterisk](Natasha%20Pyoterisk)
 Location: [Underdark](Underdark)
-#wip 
+
 
 Napkin Crawling Expidition
 A report by [Natasha Pyoterisk](Natasha%20Pyoterisk), First of her Name

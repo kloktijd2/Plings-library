@@ -16,8 +16,47 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "472f9fb94fc7dc37",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "282f43397b0eb942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,8 +231,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd711d42ecc9480d",
+  "active": "282f43397b0eb942",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "scriptorium/bounty missions/Bounty - Mission report - grocery chopping 13-08-10.md",
     "scriptorium/expeditions/Expedition report Hopefully no mutiny 13-07-26.md",
     "scriptorium/bounty missions/grocery chopping report 13-6-26.md",
@@ -223,7 +263,6 @@
     "knowledge books/factions near haven/Striders.md",
     "scriptorium/Missions/The lizard of us 26-07-26.md",
     "knowledge books/Modern history and events/shift storm.md",
-    "unsorted/Striders Guild.md",
     "Untitled.base",
     "scriptorium/pdf/Mission Report_ Cave Diving in the Silent Woods.pdf",
     "knowledge books/a documentation of locations in the new material/The direction of things_ A guide of where to go when you need to be somewhere by Wynnstan/Original pdf/The direction of things_ A guide of where to go when you need to be somewhere.pdf",

@@ -1,3 +1,8 @@
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - file.ctime
+  - type: table
+    name: View

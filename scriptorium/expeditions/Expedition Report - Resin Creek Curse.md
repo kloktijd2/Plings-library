@@ -47,7 +47,7 @@ With one deep breathe in and out… I decided to decline his offer,
 knowing this is not what [[Beackberry]] would want at all… So, he
 disappeared… Later, I found out from my allies that it was a [[demon]]
 possessed by strider [[Rudy]]. Never would I have thought it would happen.
-The next day, we decided to go West to go to the [[Hag]]’s Liar. Over there
+The next day, we decided to go West to go to the [[hag]]’s Liar. Over there
 we found a hole to go down. Beneath there, there was another hole with
 [[ooze]] inside, roots of a plant and 9 undead corpses. The plant was
 controlling the corpses which it also had a trap, the roots of it was in

@@ -21,7 +21,7 @@ speakers in our midst. [Leona](Leona%20Bluefall.md) had the ‘grand’ idea to 
 be able to ‘possess’ certain critters. We were led to a denser part of the forest that left us with a grim
 and darker feeling to us. [Leona](Leona) doesn’t seem to be insane after all as the Squarrel, together with
 other critters brought us to a wall of vines. From the reports of Mister [Shelan](Shelan), I made an estimation
-that these might be related to areas afflicted with an effigy of the [Hag](Hag). While first believing these
+that these might be related to areas afflicted with an effigy of the [hag](hag.md). While first believing these
 dangerous areas could be avoided it quickly became clear to us that it was indeed the area we had to
 investigate. After some hard work to get through the vines, we are shown a small stone building
 around a very big and old tree. There were 4 pillars each with a different animal, a wolf, an owl, a cat,

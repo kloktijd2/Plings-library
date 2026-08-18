@@ -16,7 +16,7 @@ taken root there. Electrical currents seem to hold the tower in its grasp, and [
 investigate.
 However, our expedition was led by the Strider [Albedo](Albedo.md), while his looks and skill with the blade and bow show
 that of a great near-perfect warrior, his skill in map reading leaves much to be desired. We went off coarse
-and while after a day we should have reached the [darkstrider](darkstrider) cave with the copper statue guarding the
+and while after a day we should have reached the [darkstrider](darkstrider) cave with the copper statue ([pling note](pling%20note.md): see also [copper knight statue](copper%20knight%20statue)) guarding the
 surrounding planes. We seemed to be 3 quarters a day going North-West, ending up at an encampment of
 pilgrims around the stone statue of [Qeru](Qeru).
 We decided to rest for now seeing the confusion got us quite a bit of time lost. Staying with the camp revealed

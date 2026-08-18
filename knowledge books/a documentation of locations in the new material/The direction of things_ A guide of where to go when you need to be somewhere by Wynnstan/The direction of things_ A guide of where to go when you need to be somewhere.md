@@ -19,4 +19,4 @@
 [Whistling Peaks](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Whistling%20Peaks.md): 5-6 days North East 
 [Wicked Copse](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Wicked%20Copse.md): ? 
 
-Disclaimer: locations might be slightly wrong because I based them on Striders reports. Please report wrong data back to me (Wynnstan Blackcrown) so I can correct it.
+Disclaimer: locations might be slightly wrong because I based them on [[Striders]] reports. Please report wrong data back to me (Wynnstan Blackcrown) so I can correct it.

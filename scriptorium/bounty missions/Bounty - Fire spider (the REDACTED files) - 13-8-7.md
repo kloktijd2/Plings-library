@@ -95,7 +95,7 @@ and bad would swap. The malevolent statue attempts to deceive. The benevolent st
 tells the truth.
 There was also mention of a middle statue, but unfortunately the remaining notes
 became completely unintelligible.
-Notes for Future Striders
+Notes for Future [[Striders]]
 • Fire spiders are dangerous.
 • [[Humanoid spiders]] are also dangerous.
 • Large holes should be approached carefully.

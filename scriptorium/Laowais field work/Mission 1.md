@@ -17,7 +17,7 @@ reports, this is not common. Adventurers should be warned by travelling north.
 We travelled half a day north-west arriving at an area that could be the [Resin Creek](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Resin%20Creek.md) however [Leona](Leona)
 believes this may be the [Spirit Garden](Spirit%20Garden). Our goal was to find an old ruined [Calaryn Shrine](Calaryn%20Shrine). However, we
 did not receive further instructions or were simply not able to decipher these due to the lack of [Sylvan](Sylvan)
-speakers in our midst. [Leona](Leona%20Bluefall.md) had the ‘grand’ idea to follow a squirrel. Apparently the great elk seems to
+speakers in our midst. [Leona](Leona%20Bluefall.md) had the ‘grand’ idea to follow a squirrel. Apparently [[the great elk]] seems to
 be able to ‘possess’ certain critters. We were led to a denser part of the forest that left us with a grim
 and darker feeling to us. [Leona](Leona) doesn’t seem to be insane after all as the Squarrel, together with
 other critters brought us to a wall of vines. From the reports of Mister [Shelan](Shelan), I made an estimation

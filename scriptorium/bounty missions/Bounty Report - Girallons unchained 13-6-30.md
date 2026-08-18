@@ -19,7 +19,7 @@ The Alpha The fight quickly became chaotic. Several [Girallon](Girallon.md) rush
 A Tunnel for Another Day 
 After the battle, we searched the mansion and discovered a tunnel leading deeper underground. There was only one problem. It was completely flooded. The place gave all of us a very uneasy feeling, and with no clear way to safely explore it, we decided it was better to return another day better prepared. I have a feeling whatever is hiding down there isn't finished with us yet. 
 
-Notes for Future Striders  
+Notes for Future [[Striders]]  
 [The Broken Slough](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/The%20Broken%20Slough.md) contains aggressive plant creatures and lightning spirits. 
  The[ frog folk](%20frog%20folk) living beneath the water were friendly and pointed us south-east. 
  The [Girallon](Girallon.md) appeared undead or otherwise controlled through necromancy.  

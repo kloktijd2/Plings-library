@@ -69,7 +69,7 @@ managed to fish and successfully caught a sailfish while [Khan](Khan.md) wanted 
 for a whale. He didn’t find one, however he managed to lure a cloud ray towards
 us. We fought the thing, with [Khan](Khan.md)’s grapple, [Barrek](Barrek)’s position on top of it to
 ride it, and [Vivian](Vivian.md) and I hitting it from a distance. We made quick work of it.
-To all striders reading it, be careful though. These cloud rays have the
+To all [[striders]] reading it, be careful though. These cloud rays have the
 ability to stun you, nearly causing Barrek to plummet to his death if I didn’t
 get to him in time. This was also an adult ray, but after inspection we realised
 there are even bigger ones roaming here.

@@ -7,7 +7,7 @@ Location: [Resin Creek](Resin%20Creek.md)
 
 Mission report - The resin creek curse
 Party: [[Achillea]] – [[Lyssara]] – [[Natasha]] – [[Xandra]]
-Objective: Find the great elk of resin creek or West towards the old hag
+Objective: Find [[the great elk]] of resin creek or West towards the old hag
 to deal with the blight.
 [[Lyssara]] started another adventure towards [[Shu Feng Keep]]. Together
 with [[Achillea]], [[Xandra]] and a new face [[Natasha]]. The vineblight has been

@@ -11,19 +11,9 @@
             "id": "6b8c3ef8d015924b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "472f9fb94fc7dc37",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Player.md",
+                "file": "profiles of people/strider profiles/Laowai Xhê.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -33,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Player"
+              "title": "Laowai Xhê"
             }
           }
         ]
@@ -219,40 +209,40 @@
   "active": "6b8c3ef8d015924b",
   "lastOpenFiles": [
     "knowledge books/factions near haven/Striders.md",
-    "knowledge books/animals of the new material/Great Maw.md",
+    "profiles of people/strider profiles/Laowai Xhê.md",
+    "Out of character/Wip files.md",
+    "Out of character/Unlinked.md",
+    "knowledge books/a documentation of locations in the new material/The direction of things_ A guide of where to go when you need to be somewhere by Wynnstan/The direction of things_ A guide of where to go when you need to be somewhere.md",
+    "knowledge books/A striders guide to Adventuring/Report.md",
+    "README.md",
+    "scriptorium/expeditions/Expedition report Hopfeully no mutiny 13-07-26.md",
+    "scriptorium/expeditions/Expedition report Hopefully no mutiny 13-07-26.md",
+    "scriptorium/expeditions/Expedition Report - Recovering The Atlas & Co 13-6-30.md",
+    "scriptorium/expeditions/Expedition Frost giants visit 13-7-20.md",
+    "knowledge books/factions near haven/darkstriders.md",
+    "scriptorium/bounty missions/Bounty Report - Girallons unchained 13-6-30.md",
+    "scriptorium/bounty missions/Bounty - Mission report - grocery chopping 13-08-10.md",
     "scriptorium/bounty missions/Bounty - Fire spider (the REDACTED files) - 13-8-7.md",
-    "knowledge books/a documentation of locations in the new material/Everplains.md",
-    "Out of character/uncreated files.md",
-    "Untitled.base",
-    "templates/Player.md",
-    "scriptorium/expeditions/Expedition report - Goblin camp disruptors 13-6-4.md",
-    "scriptorium/pdf/Expedition report - Goblin camp disruptors.pdf",
     "Out of character/Overview.md",
-    "scriptorium/expeditions/Expedition report - Union work 13-6-4.md",
+    "Out of character/Lore questions.md",
+    "unsorted/the Great Elk.md",
+    "scriptorium/expeditions/Expedition Report - Resin Creek Curse.md",
+    "scriptorium/Laowais field work/Mission 6.md",
+    "scriptorium/Laowais field work/Mission 1.md",
+    "Out of character/uncreated files.md",
+    "unsorted/copper knight statue.md",
+    "templates/Point of intrest.md",
+    "templates/Player.md",
+    "Out of character/tags/Point of intrest.md",
+    "Untitled.base",
+    "scriptorium/pdf/Expedition report - Goblin camp disruptors.pdf",
     "scriptorium/pdf/Expedition report - Union work.pdf",
-    "scriptorium/expeditions/Expedition - grave robbing 13-8-4.md",
-    "knowledge books/an encyclopedia of magic/Magic items and artifacts/crown piece.md",
-    "unsorted/Soulthorn.md",
     "scriptorium/pdf/Expedition - Grave Robbing.pdf",
     "scriptorium/pdf/Bounty Report - Fire Spider (The REDACTED files) 1.pdf",
     "scriptorium/pdf/Bounty Report - Fire Spider (The REDACTED files).pdf",
     "scriptorium/pdf/Everplains mythmarches.pdf",
-    "conflict-files-obsidian-git.md",
-    "scriptorium/bounty missions/Bounty - Mission report - grocery chopping 13-08-10.md",
-    "scriptorium/expeditions/Expedition report Hopefully no mutiny 13-07-26.md",
-    "scriptorium/bounty missions/grocery chopping report 13-6-26.md",
-    "scriptorium/expeditions/Expedition Report - Resin Creek Curse.md",
-    "scriptorium/expeditions/Expedition report Hopfeully no mutiny 13-07-26.md",
-    "scriptorium/bounty missions/Bounty - Grocery Chopping (Hard) 13-7-11.md",
     "scriptorium/pdf/Mission report - The resin creek curse 13-8-10.pdf",
-    "unsorted/goblins.md",
-    "profiles of people/strider profiles/Catherine.md",
     "scriptorium/pdf/Mission - The Lizards Of Us 13-07-16.pdf",
-    "scriptorium/pdf/Mission report - Grocery Chopping 13-08-10.pdf",
-    "Out of character/Wip files.md",
-    "knowledge books/a documentation of locations in the new material/dreglord depths.md",
-    "scriptorium/expeditions/Napkin crawling 13-6-23.md",
-    "Out of character/tags/Location.md",
-    "ZZ idk yet/hag.md"
+    "scriptorium/pdf/Mission report - Grocery Chopping 13-08-10.pdf"
   ]
 }

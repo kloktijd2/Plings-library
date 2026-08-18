@@ -19,7 +19,7 @@ I also met [[Jean]] and [[Marcel]], what a lovely pig. Then we have [[Gudd]], wh
 like his name.
 We found a group of [[goblin]]s yelling at a few people. We decided to intervene
 and found out that they killed their gods ([pling note](pling%20note.md) : see [Expedition report Hopefully no mutiny 1](Expedition%20report%20Hopefully%20no%20mutiny%2013-07-26.md) and [Hopfeully no mutiny 2 ](Expedition%20report%20Hopfeully%20no%20mutiny%2013-07-26.md)). this is my fault). We then convinced them that they
-could replace their gods and left us, the other party seemed to be fellow striders.
+could replace their gods and left us, the other party seemed to be fellow [[striders]].
 They offered us a quick break, but we declined saying that we needed to head
 back to our quest.
 Later, we found a [[worg]] running in the wild. With my bear trap and teamwork, [goblins](goblins)

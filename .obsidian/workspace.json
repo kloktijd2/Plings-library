@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3062723d83993ef7",
+        "id": "f436cce9410d2ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "6b8c3ef8d015924b",
+            "id": "ba44379c919c2e73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "profiles of people/strider profiles/Laowai Xhê.md",
+                "file": "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 3 Goblin Assault.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": false
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Laowai Xhê"
+              "title": "Mission 3 Goblin Assault"
             }
           }
         ]
@@ -65,10 +65,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gut",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": false,
+                "explainSearch": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -86,11 +86,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 606.5
+    "width": 350.5
   },
   "right": {
     "id": "55296f26bc0b689a",
@@ -168,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scriptorium/expeditions/Expedition Report - Hotheads an esay on the fire tornado 13-6-25.md",
+                "file": "scriptorium/Laowais field work/mission 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Expedition Report - Hotheads an esay on the fire tornado 13-6-25"
+              "title": "Outline of mission 3"
             }
           },
           {
@@ -196,53 +197,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "6b8c3ef8d015924b",
+  "active": "ba44379c919c2e73",
   "lastOpenFiles": [
-    "knowledge books/factions near haven/Striders.md",
-    "profiles of people/strider profiles/Laowai Xhê.md",
-    "Out of character/Wip files.md",
-    "Out of character/Unlinked.md",
-    "knowledge books/a documentation of locations in the new material/The direction of things_ A guide of where to go when you need to be somewhere by Wynnstan/The direction of things_ A guide of where to go when you need to be somewhere.md",
-    "knowledge books/A striders guide to Adventuring/Report.md",
-    "README.md",
-    "scriptorium/expeditions/Expedition report Hopfeully no mutiny 13-07-26.md",
-    "scriptorium/expeditions/Expedition report Hopefully no mutiny 13-07-26.md",
-    "scriptorium/expeditions/Expedition Report - Recovering The Atlas & Co 13-6-30.md",
-    "scriptorium/expeditions/Expedition Frost giants visit 13-7-20.md",
-    "knowledge books/factions near haven/darkstriders.md",
-    "scriptorium/bounty missions/Bounty Report - Girallons unchained 13-6-30.md",
-    "scriptorium/bounty missions/Bounty - Mission report - grocery chopping 13-08-10.md",
-    "scriptorium/bounty missions/Bounty - Fire spider (the REDACTED files) - 13-8-7.md",
+    "knowledge books/factions near haven/gut cutters.md",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 3 Goblin Assault.md",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 2 Into Hell.md",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 1 Tiny gnomes.md",
+    "unsorted/Khan Bloodhand.md",
+    "profiles of people/strider profiles/Khan.md",
+    "scriptorium/pdf/Tales of Khan.pdf",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan",
+    "scriptorium/Luca being difficult to catagorize",
     "Out of character/Overview.md",
-    "Out of character/Lore questions.md",
-    "unsorted/the Great Elk.md",
-    "scriptorium/expeditions/Expedition Report - Resin Creek Curse.md",
-    "scriptorium/Laowais field work/Mission 6.md",
-    "scriptorium/Laowais field work/Mission 1.md",
+    "ZZ idk yet/Ithyrian.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 1 The Green Creek.md",
+    "knowledge books/an encyclopedia of magic/Magic items and artifacts/crown piece.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 8 Halycion Park.md",
+    "unsorted/Ryndell Ruins.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 2 Exploring the Ruins of the Past.md",
+    "ZZ idk yet/Emperor Cahal.md",
+    "ZZ idk yet/Frill.md",
+    "ZZ idk yet/Dragontooth Saber.md",
+    "ZZ idk yet/the Great Elk.md",
+    "knowledge books/a documentation of locations in the new material/Sahuagin Lake.md",
+    "knowledge books/a documentation of locations in the new material/Sahuagin.md",
+    "knowledge books/animals of the new material/gnolls.md",
+    "knowledge books/a documentation of locations in the new material/Points of intrest",
     "Out of character/uncreated files.md",
-    "unsorted/copper knight statue.md",
-    "templates/Point of intrest.md",
-    "templates/Player.md",
-    "Out of character/tags/Point of intrest.md",
-    "Untitled.base",
-    "scriptorium/pdf/Expedition report - Goblin camp disruptors.pdf",
-    "scriptorium/pdf/Expedition report - Union work.pdf",
-    "scriptorium/pdf/Expedition - Grave Robbing.pdf",
-    "scriptorium/pdf/Bounty Report - Fire Spider (The REDACTED files) 1.pdf",
-    "scriptorium/pdf/Bounty Report - Fire Spider (The REDACTED files).pdf",
+    "profiles of people/strider profiles/Barrek.md",
+    "profiles of people/strider profiles/Rudy.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 10 scorched metal.md",
+    "scriptorium/bounty missions/Bounty - mission report_ cave diving in the silent woods 13-8-12.md",
+    "profiles of people/Prominent political figures/king toot.md",
     "scriptorium/pdf/Everplains mythmarches.pdf",
     "scriptorium/pdf/Mission report - The resin creek curse 13-8-10.pdf",
+    "scriptorium/pdf/Mission report - Grocery Chopping 13-08-10.pdf",
+    "scriptorium/pdf/Mission Report_ Cave Diving in the Silent Woods.pdf",
     "scriptorium/pdf/Mission - The Lizards Of Us 13-07-16.pdf",
-    "scriptorium/pdf/Mission report - Grocery Chopping 13-08-10.pdf"
+    "scriptorium/pdf/Expedition report - Union work.pdf"
   ]
 }

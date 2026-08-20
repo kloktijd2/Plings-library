@@ -11,7 +11,7 @@ Strider [Achillae](Achillea.md)
 Strider [Henka’ash](Henka’ash)  
 Strider [Albedo](Albedo.md)
 
-We gathered at the [Northwestern gate](Northwestern%20gate). This expedition had a clear goal. To scout the forests surrounding [Resin River](Resin%20River) for any dangers inland and to exterminate them. After that, we were tasked to establish a forward base to attack the [Sahuagin](Sahuagin) encampment from.
+We gathered at the [Northwestern gate](Northwestern%20gate). This expedition had a clear goal. To scout the forests surrounding [Resin River](Resin%20River) for any dangers inland and to exterminate them. After that, we were tasked to establish a forward base to attack the [Sahuagin](Sahuagin.md) encampment from.
 
 We followed the river to seek a good position. I studied the maps and believe a good position can be to take the fish’ their own outpost in [Gate Lake](Gate%20Lake). However the surroundings must be safe first before we can safely set up camp.
 

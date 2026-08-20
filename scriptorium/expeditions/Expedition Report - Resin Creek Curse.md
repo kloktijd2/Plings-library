@@ -1,5 +1,5 @@
 See also: [Report](Report.md)
-Posted by: [bonesawwe2016](bonesawwe2016) 
+Posted by: [bonesawwe2016](bonesawwe2016.md) 
 Posted date: 2026-8-10
 Pdf: [Expedition Report - Resin Creek Curse](Expedition%20Report%20-%20Resin%20Creek%20Curse.md)
 Written by: [[Lysarra]] 
@@ -7,7 +7,7 @@ Location: [Resin Creek](Resin%20Creek.md)
 
 Mission report - The resin creek curse
 Party: [[Achillea]] – [[Lyssara]] – [[Natasha]] – [[Xandra]]
-Objective: Find [[the great elk]] of resin creek or West towards the old hag
+Objective: Find [[the Great Elk]] of resin creek or West towards the old hag
 to deal with the blight.
 [[Lyssara]] started another adventure towards [[Shu Feng Keep]]. Together
 with [[Achillea]], [[Xandra]] and a new face [[Natasha]]. The vineblight has been
@@ -21,10 +21,10 @@ was watching us. So, me and [[Natasha]] started to sneak around, go on the
 trees and try to follow the lead. But we only found a triangle mark with
 a skeleton mouse inside, which was very unsettling.
 The next day we went back on track to [[Shu Feng Keep]]. We wanted to
-get some offerings for [[the great elk]]. We placed it on the ground so it
+get some offerings for [[the Great Elk]]. We placed it on the ground so it
 would find us, but after a long time waiting, no one showed up. So, I
 decided to look around with [[Natasha]].
-When we came back, we heard the news that [[the great elk]] did come and
+When we came back, we heard the news that [[the Great Elk]] did come and
 it appeared to have memory problems, causing from somewhere. The elk
 is slowly dying.
 We decided to make camp there, hopefully some good rest would help us

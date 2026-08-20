@@ -19,7 +19,7 @@ our plan was to visit my home in the [dreglord depths](knowledge%20books/a%20doc
 
 So we traveled. There on our travels we noticed the sky is being really weird (I am nothing this cosmic event in my book “Why don’t you fix this: a list of problems”) ([[pling note]]: see also [shift storm](shift%20storm.md))
 
-we also came past a statue ([pling note](pling%20note.md) : see [copper knight statue](copper%20knight%20statue)) my party seem to find of note and a cave of partying [[striders]] where we set up camp.
+we also came past a statue ([pling note](pling%20note.md) : see [copper knight statue](copper%20knight%20statue.md)) my party seem to find of note and a cave of partying [[striders]] where we set up camp.
 
 In our second day of travel we saw some ruins I remembered from some reports that it had [flesh holes](flesh%20holes).
 

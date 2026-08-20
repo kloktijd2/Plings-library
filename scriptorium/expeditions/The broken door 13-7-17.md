@@ -2,12 +2,12 @@ See also: [Report](Report.md)
 Posted by:  [ulbert_alain_](ulbert_alain_)
 Posted date: 2026-7-17
 Pdf: [the broken door](the%20broken%20door.pdf)
-Written by: [Rudy](Rudy) 
+Written by: [Rudy](Rudy.md) 
 Location: [Tall Spire](Tall%20Spire.md)
 
 **The Broken Door**
 
-Party: [Rudy](Rudy), [Vivian](Vivian.md), [EK](EK.md), and [Wollfrud](Wollfrud.md)
+Party: [Rudy](Rudy.md), [Vivian](Vivian.md), [EK](EK.md), and [Wollfrud](Wollfrud.md)
 
 **Part 1: The Door**
 

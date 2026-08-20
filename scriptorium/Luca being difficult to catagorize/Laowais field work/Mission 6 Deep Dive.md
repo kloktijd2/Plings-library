@@ -7,7 +7,7 @@ Location:
 
 A plan has been set in motion to take down one of the largest threats near our city. The [[Sahuagin]] and us have an uneasy peace that revolves mostly around live and let live etiquette. However, they were a threat, an obstacle to overcome should we want to secure our own access to the waters and allow expansion into the [Creek](Resin%20Creek.md). Thus with the assistance of other adventurers we have concluded a plan on how to defeat them. I and Chief [[Khan]] of the the Rockeater Remnants made a plan to take them down, I only have a limited training in military operations but with [[Khan]]’s experience we were ready for the assault.  
   
-[[Khan]] would have convinced the River trolls, the natural enemy of the [[Sahuagin]] to join in fight against them. From there a multitude of different groups with their own respective tasks. An infiltration group under my command would move in while the trolls under [[Khan]] distracted the [[sahuagin]] alongside our reserve forces under the Strider [[Barrek]]. When the infiltration group give the order the main force led by the Head Strider would assault the fortress. 
+[[Khan]] would have convinced the River trolls, the natural enemy of the [[Sahuagin]] to join in fight against them. From there a multitude of different groups with their own respective tasks. An infiltration group under my command would move in while the trolls under [[Khan]] distracted the [[Sahuagin]] alongside our reserve forces under the Strider [[Barrek]]. When the infiltration group give the order the main force led by the Head Strider would assault the fortress. 
 
 [Tactical assault of the depth](https://docs.google.com/presentation/d/1WzJplbEZgv7hcPGziXq8bYpZOKoByLnF5S-__m2NnGw/edit?usp=sharing)
 

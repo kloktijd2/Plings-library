@@ -14,7 +14,7 @@ Our party departed in the morning hour. Too early if you ask me. From the looks 
 were newly signed up with the exception of Miss Bluefall who led the party. We headed out but seemed
 to have been witness to an attack made by the [gnolls](gnolls.md) on the northern walls. According to recent
 reports, this is not common. Adventurers should be warned by travelling north.
-We travelled half a day north-west arriving at an area that could be the [Resin Creek](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Resin%20Creek.md) however [Leona](Leona%20Bluefall.md)
+We travelled half a day north-west arriving at an area that could be the [Resin Creek](Resin%20Creek.md) however [Leona](Leona%20Bluefall.md)
 believes this may be the [Spirit Garden](Spirit%20Garden). Our goal was to find an old ruined [Calaryn Shrine](Calaryn%20Shrine). However, we
 did not receive further instructions or were simply not able to decipher these due to the lack of [Sylvan](Sylvan)
 speakers in our midst. [Leona](Leona%20Bluefall.md) had the ‘grand’ idea to follow a squirrel. Apparently [[the Great Elk]] seems to

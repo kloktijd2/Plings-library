@@ -10,7 +10,7 @@ Sir [[Henka]]
   
   
 
-We Travelled from [[the Verge]], having heard reports of a flying ship that seemed almost “unsinkable” from normal weapons piqued the interest in some. While I would love to feel what it would be like to captain a vessel, others were lured by the talks of its magical origin. Especially [[Rudy]] seemed to believe some undead presence might be at the ship.
+We Travelled from [[The Verge]], having heard reports of a flying ship that seemed almost “unsinkable” from normal weapons piqued the interest in some. While I would love to feel what it would be like to captain a vessel, others were lured by the talks of its magical origin. Especially [[Rudy]] seemed to believe some undead presence might be at the ship.
 
   
 

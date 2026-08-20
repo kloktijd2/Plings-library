@@ -7,7 +7,7 @@ The guild had received reports of a dangerous, and strangely powerful, [[bulette
 
 We moved north as the instructions go. The first few days of travel were less interesting so I will not write them in full. The first day we arrived at a [copper statue](copper%20knight%20statue.md) as is often stated. This statue, as is reported, slays foes who have bad intentions. We heard the howling of nearby [[gnolls]] during the day so in a way of securing our camps more, [[Rudy]] was able to use some of the bodies around this statue to be our protectors.
 
-The second day went along as normal, with camp being made at the [[defanged tower]] which has been pacified fully.
+The second day went along as normal, with camp being made at the [[Defanged Tower]] which has been pacified fully.
 
 The third day the weather had shifted for the worse, we were beset by much heavier rains and winds. Any tracks of enemies were no longer detectable. 
 

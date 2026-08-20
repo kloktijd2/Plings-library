@@ -4,7 +4,6 @@ Posted date: 2024-10-8
 Pdf: [Tales of Khan](Tales%20of%20Khan.pdf)
 Written by: [Khan](Khan.md) [Laowai Xhê](Laowai%20Xhê.md)
 Location:
-#wip 
 
 report on the magical shard expedition written by [Khan Bloodhand](Khan.md) 8 oct 11 ([pling note](pling%20note.md): unsure 2024)
 (Transcribed by Guild Clerck [[Laowai Xhê]])
@@ -31,7 +30,7 @@ arrived we found a hot and rocky terrain with many streams of molten rock. Imps 
 us, and in the distance, we were able to make out a fortress with heavy chains and giant
 guards. We have called this place: [[Quiums Chained Fortress]]. A [[hellspawn]] seems to have
 noticed us and charged it. It was quickly disposed of by our mages and the invaders. We
-then left, taking us to a random spot which we quickly located near the [[Makutu woods]].
+then left, taking us to a random spot which we quickly located near the  [Makutu Woods](North%20West%20Makutu%20Woods.md).
 Following this logic we made our way to the [[Tall Spire]] where we could get home. On the way
 some vile magical wizard or something cast a spell upon us, causing my shaman to be
 replaced with some small elven lad. I quickly rushed to the spire and got her back. Then we

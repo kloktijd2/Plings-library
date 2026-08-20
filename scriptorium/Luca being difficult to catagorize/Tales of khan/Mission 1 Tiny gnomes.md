@@ -9,7 +9,7 @@ Report on the Material Gnome Mission by [Khan Bloodhand](Khan.md) 27 jun 11([pli
 
   
 
-We arrived at the great [[tall spire]] with a tiny manling. This tiny Manling seemed to be our boss. 
+We arrived at the great [[Tall Spire]] with a tiny manling. This tiny Manling seemed to be our boss. 
 
 He called himself [[Renwyl]] of [[Caelycion]] a banker with no experience in the wild, not smart to go out.
 

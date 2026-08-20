@@ -3,7 +3,7 @@ aliases:
   - Halycion
 ---
 #location 
-Distance and direction from [[haven]]: 0
+Distance and direction from [[Haven]]: 0
 Factions: [Striders](Striders.md)
 Descritption: 
 also known as [Halycion](Haven.md)

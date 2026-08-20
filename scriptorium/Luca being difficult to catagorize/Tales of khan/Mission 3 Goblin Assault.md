@@ -5,7 +5,7 @@ Pdf: [Tales of Khan](Tales%20of%20Khan.pdf)
 Written by: [Khan](Khan.md) [Laowai Xhê](Laowai%20Xhê.md)
 Location:
 
-report on the second mapping expedition written by [[Khan Bloodhand]] 8 nov 11 ([pling note](pling%20note.md) unsure 2024)
+report on the second mapping expedition written by [Khan Bloodhand](Khan.md) 8 nov 11 ([pling note](pling%20note.md) unsure 2024)
 
 (Transcribed by Guild Clerck [[Laowai Xhê]]) 
 

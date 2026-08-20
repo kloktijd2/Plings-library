@@ -11,7 +11,7 @@ Lady [Laowai Xhê](Laowai%20Xhê.md)
 Strider [Albedo](Albedo.md) (Backflip: VII, Failed: I)
 Strider [Michael](Michael.md)
 Strider [Achillae](Achillea.md)
-We set out at the Northern gate to make our way to the [Defanged Tower](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Defanged%20Tower.md). According to reports, a storm has
+We set out at the Northern gate to make our way to the [Defanged Tower](Defanged%20Tower.md). According to reports, a storm has
 taken root there. Electrical currents seem to hold the tower in its grasp, and [Striders](Striders.md) were sent in to
 investigate.
 However, our expedition was led by the Strider [Albedo](Albedo.md), while his looks and skill with the blade and bow show
@@ -27,7 +27,7 @@ shamans attacked the camp. The thiefling, blinded by faith, walked into the trap
 fight and later moved to the correct path.
 We arrived late at the [Darkstrider](Darkstrider) cave. We found a collection of dead [gnoll](gnoll)s at the entrance, killed by the
 traps no doubt. It seems we were not the only people suffering with the [Gnoll](Gnoll)s. Moving in we prepared to rest
-here, not taking the risk of camping in the plains between the cave and [Defanged Tower](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Defanged%20Tower.md). The dwarven leader
+here, not taking the risk of camping in the plains between the cave and [Defanged Tower](Defanged%20Tower.md). The dwarven leader
 [Amorin](Amorin) gave us insight on the situation. She is to busy with holding the [gnoll](gnoll)s back and hopes something soon
 will be done by the situation. She also pointed out that one of the [darkstrider](darkstrider)s is missing. A young curious
 adventurer named [Curiosity](Curiosity), and her sister ‘[Fashion](Fashion)’ is offering a reward for finding her. We found her deeper
@@ -35,7 +35,7 @@ in the cave eaten by two cave dwellers. The sister did not expect that [Striders
 in anguish. Perhaps this is not a suitable job for her. We spend the night getting acquainted with the other
 [darkstriders](darkstriders.md), one amongst them being a large [giant](knowledge%20books/Taxonomical%20diffrences%20between%20diffrent%20humanoid%20races/giant.md) called [Vlobur](Vlobur). How I wish to know more about him just to
 shove him in the face of the pompous brute [Khan](Khan.md).
-Arriving at the [Defanged Tower](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Defanged%20Tower.md) we found it indeed fully surrounded by a blueish goo that seemed to attract
+Arriving at the [Defanged Tower](Defanged%20Tower.md) we found it indeed fully surrounded by a blueish goo that seemed to attract
 lightning from the storm around it. We met with some weird flying faction of the blue [wyrmblood kobolds](wyrmblood%20kobolds), they
 almost seem crazy but who am I to judge. With the evolution of the Blue dragon, a tempestuous storm has
 taken root and caused this jelly to grow. Although it doesn’t move, it does keep growing if the root is not dealt

@@ -1,5 +1,5 @@
 tags: [Location](Out%20of%20character/tags/Location.md)
-Distance and direction from [[haven]]: right next to haven
+Distance and direction from [[Haven]]: right next to haven
 Factions: [gut cutters](gut%20cutters.md)
 Descritption: the [Everplains](Everplains.md) are a mostly empty field. of grass next to haven. 
 notable things: [copper knight statue](copper%20knight%20statue.md) 

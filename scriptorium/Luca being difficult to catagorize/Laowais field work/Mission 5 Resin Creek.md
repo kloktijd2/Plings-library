@@ -15,7 +15,7 @@ We gathered at the [Northwestern gate](Northwestern%20gate). This expedition had
 
 We followed the river to seek a good position. I studied the maps and believe a good position can be to take the fish’ their own outpost in [Gate Lake](Gate%20Lake). However the surroundings must be safe first before we can safely set up camp.
 
-[Resin Creek](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Resin%20Creek.md), no matter the expeditions send into it, remains a hostile forest. The vines attacked our boots, we found 2 individuals that seemed to be possessed by these vines. Some of our party suspect [Soulthorn](Soulthorn), but some believe that a darker power is still lingering in these forests.
+[Resin Creek](Resin%20Creek.md), no matter the expeditions send into it, remains a hostile forest. The vines attacked our boots, we found 2 individuals that seemed to be possessed by these vines. Some of our party suspect [Soulthorn](Soulthorn), but some believe that a darker power is still lingering in these forests.
 
 Once more the forest showed its fangs as we slept, the trees we were around came to live with the intention of flattening us like a bug. However the skill of fire and steel managed to push them back and turn them into firewood. These trees seem to pack an interesting resin. [Albedo](Albedo.md) was drawn to it, to consume it. After he ate it he grew a third leg, truly an ungodly sight and he agreed, for he cut it off seconds later.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "profiles of people/strider profiles/Laowai Xhê.md",
+                "file": "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 5 Flightless dragons.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": false
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Laowai Xhê"
+              "title": "Mission 5 Flightless dragons"
             }
           },
           {
@@ -44,33 +44,8 @@
               "icon": "diff",
               "title": "Diff: workspace.json  (Working Tree)"
             }
-          },
-          {
-            "id": "7891a0f6884065df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +82,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -129,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 606.5,
-    "collapsed": true
+    "width": 606.5
   },
   "right": {
     "id": "55296f26bc0b689a",
@@ -246,43 +220,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7891a0f6884065df",
+  "active": "6b8c3ef8d015924b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "unsorted/Fishfolk.md",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 5 Flightless dragons.md",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 4 Long live the chief.md",
+    "knowledge books/a documentation of locations in the new material/Areas and cities/Blood Lake.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/mission 3 Wind Broken.md",
+    "knowledge books/a documentation of locations in the new material/Haven. the shifted city (credits luca)/Districts/Waterford.md",
+    "knowledge books/a documentation of locations in the new material/Areas and cities/Wicked Copse.md",
+    "knowledge books/a documentation of locations in the new material/Areas and cities/The Broken Slough.md",
+    "knowledge books/a documentation of locations in the new material/Areas and cities/Silent Woods.md",
+    "knowledge books/a documentation of locations in the new material/Areas and cities/Sahuagin Lake.md",
+    "knowledge books/factions near haven/Sahuagin.md",
+    "knowledge books/A striders guide to Adventuring/Report.md",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 3 Goblin Assault.md",
+    "unsorted/Maeve.md",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 2 Into Hell.md",
+    "scriptorium/bounty missions/Bounty - Grocery Chopping (Hard) 13-7-11.md",
+    "knowledge books/a documentation of locations in the new material/Areas and cities/North West Makutu Woods.md",
+    "knowledge books/a documentation of locations in the new material/Areas and cities/Makutu woods.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 8 Halycion Park.md",
+    "knowledge books/a documentation of locations in the new material/Areas and cities",
+    "Out of character/tags/pling note.md",
     "profiles of people/strider profiles/Laowai Xhê.md",
+    "conflict-files-obsidian-git.md",
     "unsorted/Ryndell Ruins.md",
     "scriptorium/pdf/Tales of Khan.pdf",
-    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 3 Goblin Assault.md",
-    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 2 Into Hell.md",
     "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 1 Tiny gnomes.md",
     "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 9 Defend the Creek.md",
     "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 6 Deep Dive.md",
-    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 8 Halycion Park.md",
-    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 7 Facing the Giants.md",
-    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 5 Resin Creek.md",
-    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 4 Mossy hills.md",
-    "scriptorium/Luca being difficult to catagorize/Laowais field work/mission 3 Wind Broken.md",
-    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 2 Exploring the Ruins of the Past.md",
-    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 11 broken slough.md",
-    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 10 scorched metal.md",
-    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 1 The Green Creek.md",
     "scriptorium/Luca being difficult to catagorize/Tales of khan",
     "scriptorium/Luca being difficult to catagorize/Laowais field work",
     "scriptorium/Luca being difficult to catagorize",
-    "profiles of people/strider profiles/Rudy.md",
-    "profiles of people/strider profiles/Barrek.md",
-    "knowledge books/animals of the new material/gnolls.md",
-    "knowledge books/a documentation of locations in the new material/Sahuagin.md",
-    "knowledge books/a documentation of locations in the new material/Sahuagin Lake.md",
-    "knowledge books/a documentation of locations in the new material/Points of intrest/copper knight statue.md",
     "knowledge books/a documentation of locations in the new material/Points of intrest",
-    "ZZ idk yet/the Great Elk.md",
-    "ZZ idk yet/Ithyrian.md",
-    "ZZ idk yet/Emperor Cahal.md",
     "Untitled.base",
     "scriptorium/pdf/Expedition report - Goblin camp disruptors.pdf",
     "scriptorium/pdf/Expedition report - Union work.pdf",
-    "scriptorium/pdf/Expedition - Grave Robbing.pdf",
-    "scriptorium/pdf/Bounty Report - Fire Spider (The REDACTED files) 1.pdf"
+    "scriptorium/pdf/Expedition - Grave Robbing.pdf"
   ]
 }

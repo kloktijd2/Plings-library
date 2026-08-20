@@ -10,10 +10,10 @@ Party: [Ruby](Ruby.md) (me), [Leona](Leona%20Bluefall.md), [Kurze](Kurze.md), [W
 ](Wynnstan%20Blackcrown.md)
 Objective: Investigate the fire tornado northwest of the Tall Spire.
 Heading Out
-We teleported from [Haven](Haven.md) to the [Tall Spire](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Tall%20Spire.md) to begin our expedition. There I met a woman
+We teleported from [Haven](Haven.md) to the [Tall Spire](Tall%20Spire.md) to begin our expedition. There I met a woman
 named [Leona](Leona%20Bluefall.md) wearing a bright blue plate armor. Very cool. [Kurze](Kurze.md) and [Wynnstan](Wynnstan%20Blackcrown.md) were
 already waiting for us.
-From the [Tall Spire](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Tall%20Spire.md), we headed northwest for around two to three hours until we reached
+From the [Tall Spire](Tall%20Spire.md), we headed northwest for around two to three hours until we reached
 the [fire tornado](fire%20tornado.md).
 It doesn't move.
 At all.
@@ -84,11 +84,11 @@ Unfortunately...
 The [Dragon](Dragon.md) was faster.
 Much faster.
 If [Leona](Leona%20Bluefall.md) hadn't used an incredibly rare magical item to summon a [Roc](Roc), I don't think we
-would've made it back to the [Tall Spire](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Tall%20Spire.md).
+would've made it back to the [Tall Spire](Tall%20Spire.md).
 We definitely owe her one.
 Door Challenge
 Since we made it back alive and didn't want to return completely empty-handed, we
-decided to challenge one of the [Tall Spire](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Tall%20Spire.md)'s doors.
+decided to challenge one of the [Tall Spire](Tall%20Spire.md)'s doors.
 This one threw us onto a pirate ship.
 Our mission was to sink a [nautiloid](nautiloid) belonging to [mind flayers](mind%20flayers). We also had our own crew
 on the ship, though it quickly became obvious they would eventually turn against us.

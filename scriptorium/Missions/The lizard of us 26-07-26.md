@@ -6,7 +6,7 @@ Written by: [Koté](Koté.md)
 Location: [Juran Tall Woods](Juran%20Tall%20Woods.md)
 
 
-[Achillea](Achillea.md), [Ruby](Ruby.md), [Necro](Necro.md) and [I](Koté.md) met up at [Shu Feng Keep](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Shu%20Feng%20Keep.md) in hopes of finally being
+[Achillea](Achillea.md), [Ruby](Ruby.md), [Necro](Necro.md) and [I](Koté.md) met up at [Shu Feng Keep](Shu%20Feng%20Keep.md) in hopes of finally being
 able to help our allies. As we were crossing the river towards [Juran Tallwoods](Juran%20Tall%20Woods.md),
 [Necro](Necro.md) suddenly gets hit by a[ flaming frog statue](%20flaming%20frog%20statue) that fell from the sky ([[pling note]]: see [shift storm](shift%20storm.md)). That
 has been a phenomenon that is happening more frequently lately as well as a

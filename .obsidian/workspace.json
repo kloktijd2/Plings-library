@@ -30,8 +30,47 @@
               "icon": "lucide-file",
               "title": "Laowai Xhê"
             }
+          },
+          {
+            "id": "aa3b512e1fe5a042",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "7891a0f6884065df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,43 +246,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a70647c7da508110",
+  "active": "7891a0f6884065df",
   "lastOpenFiles": [
-    "knowledge books/factions near haven/Striders.md",
+    "conflict-files-obsidian-git.md",
     "profiles of people/strider profiles/Laowai Xhê.md",
-    "Out of character/Wip files.md",
-    "Out of character/Unlinked.md",
-    "knowledge books/a documentation of locations in the new material/The direction of things_ A guide of where to go when you need to be somewhere by Wynnstan/The direction of things_ A guide of where to go when you need to be somewhere.md",
-    "knowledge books/A striders guide to Adventuring/Report.md",
-    "README.md",
-    "scriptorium/expeditions/Expedition report Hopfeully no mutiny 13-07-26.md",
-    "scriptorium/expeditions/Expedition report Hopefully no mutiny 13-07-26.md",
-    "scriptorium/expeditions/Expedition Report - Recovering The Atlas & Co 13-6-30.md",
-    "scriptorium/expeditions/Expedition Frost giants visit 13-7-20.md",
-    "knowledge books/factions near haven/darkstriders.md",
-    "scriptorium/bounty missions/Bounty Report - Girallons unchained 13-6-30.md",
-    "scriptorium/bounty missions/Bounty - Mission report - grocery chopping 13-08-10.md",
-    "scriptorium/bounty missions/Bounty - Fire spider (the REDACTED files) - 13-8-7.md",
-    "Out of character/Overview.md",
-    "Out of character/Lore questions.md",
-    "unsorted/the Great Elk.md",
-    "scriptorium/expeditions/Expedition Report - Resin Creek Curse.md",
-    "scriptorium/Laowais field work/Mission 6.md",
-    "scriptorium/Laowais field work/Mission 1.md",
-    "Out of character/uncreated files.md",
-    "unsorted/copper knight statue.md",
-    "templates/Point of intrest.md",
-    "templates/Player.md",
-    "Out of character/tags/Point of intrest.md",
+    "unsorted/Ryndell Ruins.md",
+    "scriptorium/pdf/Tales of Khan.pdf",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 3 Goblin Assault.md",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 2 Into Hell.md",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 1 Tiny gnomes.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 9 Defend the Creek.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 6 Deep Dive.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 8 Halycion Park.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 7 Facing the Giants.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 5 Resin Creek.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 4 Mossy hills.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/mission 3 Wind Broken.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 2 Exploring the Ruins of the Past.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 11 broken slough.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 10 scorched metal.md",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 1 The Green Creek.md",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan",
+    "scriptorium/Luca being difficult to catagorize/Laowais field work",
+    "scriptorium/Luca being difficult to catagorize",
+    "profiles of people/strider profiles/Rudy.md",
+    "profiles of people/strider profiles/Barrek.md",
+    "knowledge books/animals of the new material/gnolls.md",
+    "knowledge books/a documentation of locations in the new material/Sahuagin.md",
+    "knowledge books/a documentation of locations in the new material/Sahuagin Lake.md",
+    "knowledge books/a documentation of locations in the new material/Points of intrest/copper knight statue.md",
+    "knowledge books/a documentation of locations in the new material/Points of intrest",
+    "ZZ idk yet/the Great Elk.md",
+    "ZZ idk yet/Ithyrian.md",
+    "ZZ idk yet/Emperor Cahal.md",
     "Untitled.base",
     "scriptorium/pdf/Expedition report - Goblin camp disruptors.pdf",
     "scriptorium/pdf/Expedition report - Union work.pdf",
     "scriptorium/pdf/Expedition - Grave Robbing.pdf",
-    "scriptorium/pdf/Bounty Report - Fire Spider (The REDACTED files) 1.pdf",
-    "scriptorium/pdf/Bounty Report - Fire Spider (The REDACTED files).pdf",
-    "scriptorium/pdf/Everplains mythmarches.pdf",
-    "scriptorium/pdf/Mission report - The resin creek curse 13-8-10.pdf",
-    "scriptorium/pdf/Mission - The Lizards Of Us 13-07-16.pdf",
-    "scriptorium/pdf/Mission report - Grocery Chopping 13-08-10.pdf"
+    "scriptorium/pdf/Bounty Report - Fire Spider (The REDACTED files) 1.pdf"
   ]
 }

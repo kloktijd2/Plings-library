@@ -12,14 +12,14 @@ Attendants
 - Mister [Michael](Michael.md)
 Our party departed in the morning hour. Too early if you ask me. From the looks of it most of the party
 were newly signed up with the exception of Miss Bluefall who led the party. We headed out but seemed
-to have been witness to an attack made by the [gnolls](gnolls) on the northern walls. According to recent
+to have been witness to an attack made by the [gnolls](gnolls.md) on the northern walls. According to recent
 reports, this is not common. Adventurers should be warned by travelling north.
-We travelled half a day north-west arriving at an area that could be the [Resin Creek](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Resin%20Creek.md) however [Leona](Leona)
+We travelled half a day north-west arriving at an area that could be the [Resin Creek](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Resin%20Creek.md) however [Leona](Leona%20Bluefall.md)
 believes this may be the [Spirit Garden](Spirit%20Garden). Our goal was to find an old ruined [Calaryn Shrine](Calaryn%20Shrine). However, we
 did not receive further instructions or were simply not able to decipher these due to the lack of [Sylvan](Sylvan)
-speakers in our midst. [Leona](Leona%20Bluefall.md) had the ‘grand’ idea to follow a squirrel. Apparently [[the great elk]] seems to
+speakers in our midst. [Leona](Leona%20Bluefall.md) had the ‘grand’ idea to follow a squirrel. Apparently [[the Great Elk]] seems to
 be able to ‘possess’ certain critters. We were led to a denser part of the forest that left us with a grim
-and darker feeling to us. [Leona](Leona) doesn’t seem to be insane after all as the Squarrel, together with
+and darker feeling to us. [Leona](Leona%20Bluefall.md) doesn’t seem to be insane after all as the Squarrel, together with
 other critters brought us to a wall of vines. From the reports of Mister [Shelan](Shelan), I made an estimation
 that these might be related to areas afflicted with an effigy of the [hag](hag.md). While first believing these
 dangerous areas could be avoided it quickly became clear to us that it was indeed the area we had to
@@ -51,7 +51,7 @@ took control of its body alongside the vine enemies from earlier. After finally 
 and powerful wall of force appeared, guarding what seemed to be another effigy. I must send word to
 the higher levelled to deal with this.
 Eventually, we cleared up the mysteries around who these people were, and what they were doing here.
-An expedition sent from the Emperor of the [Eatherian](Eatherian) Kingdom.
+An expedition sent from the Emperor of the [eathyrian](Ithyrian.md) Kingdom.
 - A forward party found a ‘corrupted’ [celestial](celestial) in this temple
 - Members of the party became friends with the celestials while some researched to kill it.
 - Research did not progress so the Canoness was called.

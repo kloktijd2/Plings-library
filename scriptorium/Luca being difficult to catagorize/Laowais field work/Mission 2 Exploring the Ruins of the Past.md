@@ -23,7 +23,7 @@ that might be increased on their whims.
 Along these of high-class we found several of the lower-class goblins. These acted as servants to their
 overlords, they beat them and keep them in the cold. They stole our food, I had to throw a bottle at their head
 to keep them away.
-We continued our journey after freeing the caravan up. We moved towards the Frozen Ruins of [Ryndell](Ryndell). A truly
+We continued our journey after freeing the caravan up. We moved towards the Frozen Ruins of [Ryndell](Ryndell%20Ruins.md). A truly
 horrendous sight, the city had sunken into a frozen swamp. The water was awful, it was stagnant, dirty and
 above all, it smelled awful. However, it seems to be filled with a magical effect of various degrees. Some of us felt
 the urge to vomit, while others wanted to swim in it.

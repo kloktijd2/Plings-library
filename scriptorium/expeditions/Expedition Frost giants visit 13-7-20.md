@@ -36,7 +36,7 @@ but the combination of displacing the clouds and making them stay static was
 too hard of a combination to keep up.
 We wanted to get out of there quickly to avoid the inhabitants coming home, so
 Khan flew us all out of there back into the clouds. I managed to hold on but the
-wind currents were quite strong. [Barrek](Barrek) and [Vivian](Vivian.md) lost their grip and
+wind currents were quite strong. [Barrek](Barrek.md) and [Vivian](Vivian.md) lost their grip and
 smashed into each other as they dangled from [Khan](Khan.md). The safety ropes were the
 right decision it seemed. This is where I started to feel uneasy. I could feel a
 storm approaching as we flew up, luckily I anticipated the lightning strikes
@@ -45,29 +45,29 @@ is made from different layers, each carrying their own dangers. A bit later
 [Vivian](Vivian.md) spots a fairly big, flat creature flapping through the clouds. It is too
 hard to see fully with the fog but we avoided it successfully. We press on with
 [Vivian](Vivian.md) on her broom helping us navigate as I steer [Khan](Khan.md) by the horns on his
-helmet where to fly to. While we fly, [Barrek](Barrek) is dangling from Khan’s leg while
+helmet where to fly to. While we fly, [Barrek](Barrek.md) is dangling from Khan’s leg while
 doing situps. The man truly is fearless.
 Then a form of darkness approaches us from above. I steered [Khan](Khan.md) out of the way
-to avoid impact but when it got closer it didn’t seem to be solid. [Barrek](Barrek)
+to avoid impact but when it got closer it didn’t seem to be solid. [Barrek](Barrek.md)
 decided to stick his head in for a bit, apparently it was quite warm and
 comfortable inside. When he came back out he had a plate sized egg stuck in his
 beard.
 Unfortunately, due to the temperature the egg froze over making it impossible
 to ever grow life. We decided to take two of the eggs out of curiosity, one was
-being carried by [Barrek](Barrek) on his chest like a baby sling, the other was carried
+being carried by [Barrek](Barrek.md) on his chest like a baby sling, the other was carried
 by me wrapped in one of Khan’s cloaks, tied to my back. These eggs needed all
 the warmth they could get to survive.
 We find evidence of life in the form of remnants of campfires frozen deep
 inside an iceberg. While I was flying with [Vivian](Vivian.md) on her broom, [Barak](Barak) managed
 to crash [Khan](Khan.md) into one of the icebergs. Maybe next time it would be best not to
-let [Barrek](Barrek) drive [Khan](Khan.md), as much of a funny sight that it was they could have
+let [Barrek](Barrek.md) drive [Khan](Khan.md), as much of a funny sight that it was they could have
 gotten seriously hurt. Luckily this time the iceberg was more hurt than them
 as they managed to nearly split the thing down the middle. Inside was some sort
 of fragment of a telescope lens, it was HUGE.
-We find a small island where we decide to set up camp for the night. [Barrek](Barrek)
+We find a small island where we decide to set up camp for the night. [Barrek](Barrek.md)
 managed to fish and successfully caught a sailfish while [Khan](Khan.md) wanted to hunt
 for a whale. He didn’t find one, however he managed to lure a cloud ray towards
-us. We fought the thing, with [Khan](Khan.md)’s grapple, [Barrek](Barrek)’s position on top of it to
+us. We fought the thing, with [Khan](Khan.md)’s grapple, [Barrek](Barrek.md)’s position on top of it to
 ride it, and [Vivian](Vivian.md) and I hitting it from a distance. We made quick work of it.
 To all [[striders]] reading it, be careful though. These cloud rays have the
 ability to stun you, nearly causing Barrek to plummet to his death if I didn’t

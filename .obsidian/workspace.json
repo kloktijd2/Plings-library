@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 606.5
+    "width": 606.5,
+    "collapsed": true
   },
   "right": {
     "id": "55296f26bc0b689a",
@@ -206,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b8c3ef8d015924b",
+  "active": "a70647c7da508110",
   "lastOpenFiles": [
     "knowledge books/factions near haven/Striders.md",
     "profiles of people/strider profiles/Laowai Xhê.md",

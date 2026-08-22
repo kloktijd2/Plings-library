@@ -7,7 +7,7 @@ Location:
 
 report on the second mapping expedition written by [Khan Bloodhand](Khan.md) 8 nov 11 ([pling note](pling%20note.md) unsure 2024)
 
-(Transcribed by Guild Clerck [[Laowai Xhê]]) 
+(Transcribed by Guild Clerck [Laowai Xhê](profiles%20of%20people/strider%20profiles/Laowai%20Xhê.md)) 
 
   
 
@@ -19,16 +19,16 @@ I hired 3 adventurers to accompany me in search of some sort of nest or hideout 
 
   
 
-The first day was uneventful apart from finding an [[abandoned house]] 3 hours away from Haven. A minor issue arose between the two rookies arguing over a kill. This went too far to my liking and called an end to it. We set up camp and were able to confirm that [[Gnolls]] go as far as Southwest [[Haven]]. This should be alarming and a group might be needed to thin their numbers or push them back. 
+The first day was uneventful apart from finding an [abandoned house](abandoned%20house) 3 hours away from Haven. A minor issue arose between the two rookies arguing over a kill. This went too far to my liking and called an end to it. We set up camp and were able to confirm that [gnolls](knowledge%20books/animals%20of%20the%20new%20material/gnolls.md) go as far as Southwest [Haven](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Areas%20and%20cities/Haven.md). This should be alarming and a group might be needed to thin their numbers or push them back. 
 
   
 
-Through the night a stranger arrived at our camp. This was the wizard [[Emma]] After confirming her claims that she was a [[strider]] she explained she was cut off from her party after her’s was ambushed and the [[goblins]] managed to kill someone. Although sceptical I allowed her to accompany us for the remaining day north. Whatever came next no one of us could think of. 
+Through the night a stranger arrived at our camp. This was the wizard [Emma](Emma) After confirming her claims that she was a [Strider](templates/Strider.md) she explained she was cut off from her party after her’s was ambushed and the [goblins](goblins) managed to kill someone. Although sceptical I allowed her to accompany us for the remaining day north. Whatever came next no one of us could think of. 
 
   
   
 
-Half a day East of [[Haven]] we encountered a fortified outpost of the [[Goblins]], they protected themselves with spikes and trenches although they did not show much interest or tactical prowess to effectively use these. We underestimated their numbers and skills and they quickly overran us. They had a variety of warriors. From so far I remember they have different kinds of casters and shamans. ([[Khan]] continued to name and categorised them from weak to strong) 
+Half a day East of [Haven](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Areas%20and%20cities/Haven.md) we encountered a fortified outpost of the [Goblins](Goblins), they protected themselves with spikes and trenches although they did not show much interest or tactical prowess to effectively use these. We underestimated their numbers and skills and they quickly overran us. They had a variety of warriors. From so far I remember they have different kinds of casters and shamans. ([Khan](profiles%20of%20people/strider%20profiles/Khan.md) continued to name and categorised them from weak to strong) 
 
   
 
@@ -76,4 +76,4 @@ Chief
 
   
 
-We eventually won after [[Emma]] sacrificed herself. I almost bled out. We managed to loot the camp but we have not gotten the time to burn it down. A larger faction might (re)claim it. However, for the recent future, I believe we have secured the area of the [[goblin]] patrols.
+We eventually won after [Emma](Emma) sacrificed herself. I almost bled out. We managed to loot the camp but we have not gotten the time to burn it down. A larger faction might (re)claim it. However, for the recent future, I believe we have secured the area of the [goblin](knowledge%20books/Taxonomical%20diffrences%20between%20diffrent%20humanoid%20races/goblin.md) patrols.

@@ -5,9 +5,9 @@ Pdf: [Expedition Report - Recovering The Atlas & Co 13-6-30](Expedition%20Report
 Written by: [Ruby](Ruby.md)
 Location:  
 
-Strider's Report - Recovery of our Fallen [[Striders]]
+Strider's Report - Recovery of our Fallen [Striders](knowledge%20books/factions%20near%20haven/Striders.md)
 Party: [Ruby](Ruby.md) (me), [Achillea](Achillea.md), [Koté](Koté.md), [Necro](Necro.md)
-Objective: Recover the bodies of our fallen [[Striders]] and, if possible, [Atlas](Atlas).
+Objective: Recover the bodies of our fallen [Striders](knowledge%20books/factions%20near%20haven/Striders.md) and, if possible, [Atlas](Atlas).
 Setting Out
 I met up with [Achillea](Achillea.md), [Koté](Koté.md) and [Necro](Necro.md) for what was easily one of the least cheerful
 expeditions I've been on.
@@ -60,7 +60,7 @@ We eventually found the bodies of 3 [Striders](Striders.md), later identifying t
 [Xanaleth](Xanaleth.md) their fourth party member seemingly nowhere to be found. I look a bit further
 and found the body of [Orchid](Orchid.md).
 We trusted [Necro](Necro.md) to perform [gentle repose](gentle%20repose.md) on them. We head back and deliver their
-bodies to [[Haven]].
+bodies to [Haven](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Areas%20and%20cities/Haven.md).
 Recovering Atlas
 Our second objective was [Atlas](Atlas).
 [Koté](Koté.md) led us back to the cave where they where ambushed and he had fallen.
@@ -78,7 +78,7 @@ unfortunately he won’t be coming back.
 Seeing that this journey over the past days has taken not only a physical but also an
 emotional toll on us. We decide to leave our revenge on the backstreet barons for
 another time.
-Notes for Future [[Striders]]
+Notes for Future [Striders](knowledge%20books/factions%20near%20haven/Striders.md)
  The [mist elementals](mist%20elementals) are not immediately hostile. (This might have changed with
 the death of the [Jackalope](Jackalope) so be on edge.)
  If another should appear do not trust the jackalope's "Divine Path."

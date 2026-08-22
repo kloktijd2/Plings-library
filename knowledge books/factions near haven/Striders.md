@@ -33,4 +33,4 @@ The answers to these questions are exactly what members of the Strider’s guild
 
   
 
-Not too far from the [guildhall](guildhall) of the Striders Guild an abandoned building can be found that used to belong to the [Dragontooth Saber](Dragontooth%20Saber.md) guild before they left [[Haven]] to start the Verge.
+Not too far from the [guildhall](guildhall) of the Striders Guild an abandoned building can be found that used to belong to the [Dragontooth Saber](Dragontooth%20Saber.md) guild before they left [Haven](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Areas%20and%20cities/Haven.md) to start the Verge.

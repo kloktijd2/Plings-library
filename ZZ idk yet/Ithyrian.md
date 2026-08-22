@@ -7,7 +7,7 @@ aliases:
 Politics
 
 - Ruled by God-Emperor    
-- Last Emperor known as [[Emperor Cahal]]
+- Last Emperor known as [Emperor Cahal](ZZ%20idk%20yet/Emperor%20Cahal.md)
 
 
 Religion

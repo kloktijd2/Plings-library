@@ -1,9 +1,9 @@
 tags: [magic](Out%20of%20character/tags/magic.md)
-type: [[artifact]]
+type: [artifact](Out%20of%20character/tags/artifact.md)
 effect: [lycantrope](lycantropes) curse breaking(?)
 
 description:
-there was an ancient kingdom ([Ithyrian](Ithyrian.md)) here before we arrived on this plane. This ancient kingdom ([Ithyrian](Ithyrian.md)) had a [king](Emperor%20Cahal.md) that got his subjects cursed by making them into monsters. ([[lycantropes]]). This [cursed king](Emperor%20Cahal.md) had a powerful crown that guards his palace, there's lots of treasure there and can also break the curse of the people. There's lots of [[fey]] involved, the three very scary [[hag]]s that where the big enemy for a while are part of the old kingdom. There is the informant a demon lord who wants the crown.
+there was an ancient kingdom ([Ithyrian](Ithyrian.md)) here before we arrived on this plane. This ancient kingdom ([Ithyrian](Ithyrian.md)) had a [king](Emperor%20Cahal.md) that got his subjects cursed by making them into monsters. ([lycantropes](lycantropes)). This [cursed king](Emperor%20Cahal.md) had a powerful crown that guards his palace, there's lots of treasure there and can also break the curse of the people. There's lots of [fey](knowledge%20books/factions%20near%20haven/fey.md) involved, the three very scary [hag](ZZ%20idk%20yet/hag.md)s that where the big enemy for a while are part of the old kingdom. There is the informant a demon lord who wants the crown.
 
 “In days of yore when the crown was one,
 the land was tame, its gods his march would shun

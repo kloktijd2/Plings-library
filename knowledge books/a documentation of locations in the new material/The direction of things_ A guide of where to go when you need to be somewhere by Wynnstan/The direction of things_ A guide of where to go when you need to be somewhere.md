@@ -3,7 +3,7 @@
 
 # The direction of things: A guide of where to go when you need to be somewhere* 
 ## By [Wynnstan Blackcrown](Wynnstan%20Blackcrown.md) 
-### These are the directions from [[Haven]]: 
+### These are the directions from [Haven](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Areas%20and%20cities/Haven.md): 
 [Blood Lake](Blood%20Lake.md): 5 days South, 1.5 days West 
 [Clearflow Cave](Clearflow%20Cave.md): 1 day North 
 [Eastern Woodlands](Eastern%20Woodlands.md): 3 days East by North East 
@@ -19,4 +19,4 @@
 [Whistling Peaks](Whistling%20Peaks.md): 5-6 days North East 
 [Wicked Copse](Wicked%20Copse.md): ? 
 
-Disclaimer: locations might be slightly wrong because I based them on [[Striders]] reports. Please report wrong data back to me (Wynnstan Blackcrown) so I can correct it.
+Disclaimer: locations might be slightly wrong because I based them on [Striders](knowledge%20books/factions%20near%20haven/Striders.md) reports. Please report wrong data back to me (Wynnstan Blackcrown) so I can correct it.

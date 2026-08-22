@@ -15,11 +15,11 @@ party: [Pling](Pling.md), [Gaven](Gaven.md), [Oxyotl](Oxyotl.md), [Sedressel](Se
 
 This mission got out of hand
 
-our plan was to visit my home in the [dreglord depths](dreglord%20depths.md) convince [king toot](king%20toot.md) that a strider [outpost](outpost) near the [dreglord depths](dreglord%20depths.md) would be a good idea. Then ask him for us to look at the [Great Maw](knowledge%20books/animals%20of%20the%20new%20material/Great%20Maw.md) if something is dangerous about it (turns out there is but I will get to that) en report back so the [[striders]] could deal with that.
+our plan was to visit my home in the [dreglord depths](dreglord%20depths.md) convince [king toot](king%20toot.md) that a strider [outpost](outpost) near the [dreglord depths](dreglord%20depths.md) would be a good idea. Then ask him for us to look at the [Great Maw](knowledge%20books/animals%20of%20the%20new%20material/Great%20Maw.md) if something is dangerous about it (turns out there is but I will get to that) en report back so the [Striders](knowledge%20books/factions%20near%20haven/Striders.md) could deal with that.
 
-So we traveled. There on our travels we noticed the sky is being really weird (I am nothing this cosmic event in my book “Why don’t you fix this: a list of problems”) ([[pling note]]: see also [shift storm](shift%20storm.md))
+So we traveled. There on our travels we noticed the sky is being really weird (I am nothing this cosmic event in my book “Why don’t you fix this: a list of problems”) ([pling note](Out%20of%20character/tags/pling%20note.md): see also [shift storm](shift%20storm.md))
 
-we also came past a statue ([pling note](pling%20note.md) : see [copper knight statue](copper%20knight%20statue.md)) my party seem to find of note and a cave of partying [[striders]] where we set up camp.
+we also came past a statue ([pling note](pling%20note.md) : see [copper knight statue](copper%20knight%20statue.md)) my party seem to find of note and a cave of partying [Striders](knowledge%20books/factions%20near%20haven/Striders.md) where we set up camp.
 
 In our second day of travel we saw some ruins I remembered from some reports that it had [flesh holes](flesh%20holes).
 

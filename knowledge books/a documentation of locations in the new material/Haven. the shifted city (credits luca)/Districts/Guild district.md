@@ -1,6 +1,6 @@
 # Guildhall
 
-Guard Captains without post and exiled nobles quickly cobbled together the [striders guild](Striders.md), which returned a semblance of stability and law. This organization would also enable all of its members to directly aid in the defense of [[Haven]] and exploration of the New Material. Head Strider [[Audry Hound]] oversees all business of the Strider’s Guild and on rare occasions can also be spotted in the field when she is not required in her official function.
+Guard Captains without post and exiled nobles quickly cobbled together the [striders guild](Striders.md), which returned a semblance of stability and law. This organization would also enable all of its members to directly aid in the defense of [Haven](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Areas%20and%20cities/Haven.md) and exploration of the New Material. Head Strider [Audry Hound](profiles%20of%20people/strider%20profiles/Audry%20Hound.md) oversees all business of the Strider’s Guild and on rare occasions can also be spotted in the field when she is not required in her official function.
 
   
 
@@ -32,7 +32,7 @@ The answers to these questions are exactly what members of the Strider’s guild
 
   
 
-Not too far from the guildhall of the [striders guild](Striders.md) an abandoned building can be found that used to belong to the [[Dragontooth Saber]] guild before they left [[Haven]] to start the Verge.
+Not too far from the guildhall of the [striders guild](Striders.md) an abandoned building can be found that used to belong to the [Dragontooth Saber](ZZ%20idk%20yet/Dragontooth%20Saber.md) guild before they left [Haven](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Areas%20and%20cities/Haven.md) to start the Verge.
 
 # The Scriptorium
 

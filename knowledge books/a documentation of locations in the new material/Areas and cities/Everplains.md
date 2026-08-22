@@ -1,5 +1,5 @@
 tags: [Location](Out%20of%20character/tags/Location.md)
-Distance and direction from [[Haven]]: right next to haven
+Distance and direction from [Haven](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Areas%20and%20cities/Haven.md): right next to haven
 Factions: [gut cutters](gut%20cutters.md)
 Descritption: the [Everplains](Everplains.md) are a mostly empty field. of grass next to haven. 
 notable things: [copper knight statue](copper%20knight%20statue.md) 
@@ -18,7 +18,7 @@ Potential enemies
 - For now only the demonic ones have been confirmed
 - summons explode
 
-[[Cockatrices]]
+[Cockatrices](Cockatrices)
 - Cocatrices have been sighted and often defeated in this area. These are easy prey.
 - Their hits might turn creatures to stone temporarily
 

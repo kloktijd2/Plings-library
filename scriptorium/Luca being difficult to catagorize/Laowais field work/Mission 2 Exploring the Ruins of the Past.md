@@ -10,10 +10,10 @@ Attendants
 - Miss [Torbera](Torbera)
 - Mister [Albedo](Albedo.md)
 - Mister [Michael](Michael.md)
-When leaving [[Haven]] to the southeastern gates. As we depart, it became clear to me that this will not be a
+When leaving [Haven](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Areas%20and%20cities/Haven.md) to the southeastern gates. As we depart, it became clear to me that this will not be a
 comfortable mission. A heavy snowstorm dawned upon us as we made our way to the agreed-upon place to meet
 the [Dreglord Goblins](Dreglord%20Goblins.md). On our way ,we met with one of the higher-ranked [Striders](Striders.md), the eccentric [Roboros](Roboros), he
-appeared to have been lost, but assured us he knew the way back to [[Haven]] either way. We continued our
+appeared to have been lost, but assured us he knew the way back to [Haven](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Areas%20and%20cities/Haven.md) either way. We continued our
 journey without him. We met them after a day of travel, they had set up a caravan around a fire to keep them
 safe from the harsh cold. They seemed to be temporarily snowed in.
 Amongst their ranks was Duchess [Karsess](Karsess) of Pink Ruby, she was accompanied by a Lord of the [Draglords](Dreglord%20Goblins.md)

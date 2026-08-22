@@ -35,7 +35,7 @@ from the damage it seems to have been caused by some sort of slime-based enemy o
 of dead bodies at the wall and towers, suggesting a final struggle or final sanctuary took place. The church
 seemed to be dedicated to the God of Trickery, [Lidumo](Lidumo). Through this expedition, more and more goblins were
 silently disappearing. What we learned afterwards is that they were silently being picked off by the octopi like
-[Fishfolk](Fishfolk). Eventually, we got into the town hall, where we found some records containing hints to what
+[Fishfolk](Fishfolk.md). Eventually, we got into the town hall, where we found some records containing hints to what
 happened, as well as a body fully entombed in deep slime. Sabotage caused the building to fall down on us, killing
 the last of the royalty that went down. Now the role of Lord fell to the first of the servants, Lord [Ono](Ono). (read
 “The Tragic Rise and Fall of the Onoian Empire”). Concluding that the hand of evil was at play we ventured

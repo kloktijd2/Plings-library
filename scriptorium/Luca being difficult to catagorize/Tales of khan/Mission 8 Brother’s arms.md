@@ -37,7 +37,7 @@ On the fourth day we arrived at a clearing in the forest. We found several magic
 
   
 
-Day 4 we continued further, passing flowerfields to our south. This day passed without much trouble. It is highly advised to explore these fields further but nothing more of note.
+Day 4 we continued further, passing flowerfields to our south. This day passed without much trouble. It is highly advised to explore these fields further but nothing more of note. [marked for investigation](marked%20for%20investigation.md)
 
   
 

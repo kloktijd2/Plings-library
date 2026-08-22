@@ -6,12 +6,12 @@ Written by: [Ruby](Ruby.md)
 Location: Dripping Weald
 
 Strider's Report – Khan Files: Fire Spider Excavation
-Party: [Ruby](profiles%20of%20people/strider%20profiles/Ruby.md) (me), [Maeve](unsorted/Maeve.md), [Lyssara](Lyssara), [Khan](profiles%20of%20people/strider%20profiles/Khan.md)
+Party: [Ruby](profiles%20of%20people/strider%20profiles/Ruby.md) (me), [Maeve](Maeve.md), [Lyssara](Lyssara), [Khan](profiles%20of%20people/strider%20profiles/Khan.md)
 Objective: Eliminate the giant [fire spider](fire%20spider) located beneath the [Dripping Weald](Dripping%20Weald).
 ### **Heading North**
 We set to out to the north of the [Dripping Weald](Dripping%20Weald) to deal with the giant [fire spider](fire%20spider) that
 had been discovered at the bottom of a pit.
-The party consisted of myself, [Maeve](unsorted/Maeve.md), [Lyssara](Lyssara) and [Khan](profiles%20of%20people/strider%20profiles/Khan.md).
+The party consisted of myself, [Maeve](Maeve.md), [Lyssara](Lyssara) and [Khan](profiles%20of%20people/strider%20profiles/Khan.md).
 [Khan](profiles%20of%20people/strider%20profiles/Khan.md) immediately let the women in our party do all the work. (Ironically Khan told the
 women in our party to start trimming the bush.)
 **This section has been reviewed, and claims have been made that this is “taken out

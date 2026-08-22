@@ -42,7 +42,7 @@ something. We couldn’t figure out what they were looking at because the mural
 was also broken there. There was also a harp depicted. I can recognise that it
 has something to do with the curse, but I can’t make much else of it. I found
 another rod here that helped us later on to get into one of the other rooms. We
-should come back here to investigate it at a later date. We went to the other,
+should come back here to investigate it at a later date ([marked for investigation](marked%20for%20investigation.md)). We went to the other,
 smaller, room. There was a big hole through the floor and upon [Roboros](Roboros)’s
 firebolt we saw the big room illuminate. It was partially flooded with green
 water and we couldn’t see much else. We decided to lower myself down to see if

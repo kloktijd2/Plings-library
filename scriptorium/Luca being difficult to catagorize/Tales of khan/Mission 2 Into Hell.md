@@ -8,7 +8,7 @@ Location:
 report on the magical shard expedition written by [Khan Bloodhand](Khan.md) 8 oct 11 ([pling note](pling%20note.md): unsure 2024)
 (Transcribed by Guild Clerck [Laowai Xhê](profiles%20of%20people/strider%20profiles/Laowai%20Xhê.md))
 The purpose of this expedition was to research a blue magical shard found by a party
-dispatched to kill demons. [Märchen](Märchen) was to do the main research, [Maeve](unsorted/Maeve.md) was the original
+dispatched to kill demons. [Märchen](Märchen) was to do the main research, [Maeve](Maeve.md) was the original
 founder and [Roboros](Roboros) and I were hired for general guard and safekeeping.
 After moving a day east to ensure a safe distance we prepared for the ritual. In the
 preparation, [Roboros](Roboros) and I killed some [goblins](goblins) in the area, further increasing the chance of a

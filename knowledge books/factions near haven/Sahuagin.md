@@ -4,12 +4,12 @@ Power
 Main base:
 Notable members:
 Description:
-Prominent race: [Fishfolk](Fishfolk)
+Prominent race: [Fishfolk](Fishfolk.md)
 #wip 
 
 Descritption:
 
-[Fishfolk](unsorted/Fishfolk.md)
+[Fishfolk](Fishfolk.md)
 - A sharklike fishfolk that are native to a water dimension. They occupied the [Resin Creek](knowledge%20books/a%20documentation%20of%20locations%20in%20the%20new%20material/Areas%20and%20cities/Resin%20Creek.md) River for a long time.
 - When blood is smelled they entered into a maddening ragelike state.
 - They are able to have priests and commanders, their priests seem magically powered and the commanders have 4 strong arms.

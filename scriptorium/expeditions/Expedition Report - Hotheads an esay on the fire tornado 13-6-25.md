@@ -82,7 +82,7 @@ teleported through the tornado to our horses.
 We rode as fast as we could.
 Unfortunately...
 The [Dragon](Dragon.md) was faster.
-Much faster.
+Much faster. ([marked for investigation](marked%20for%20investigation.md))
 If [Leona](Leona%20Bluefall.md) hadn't used an incredibly rare magical item to summon a [Roc](Roc), I don't think we
 would've made it back to the [Tall Spire](Tall%20Spire.md).
 We definitely owe her one.

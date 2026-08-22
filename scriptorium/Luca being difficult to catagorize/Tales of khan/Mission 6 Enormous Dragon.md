@@ -11,7 +11,7 @@ report on the Bluey Dragon expedition written by [Khan Bloodhand](Khan%20Bloodha
 
   
 
-We left Haven to the western gate. The target was the fabled [Dragon Mountain](Dragon%20Mountain) in [the creek](Resin%20Creek.md) that was rumoured to be home to the large [Blue Dragon](unsorted/Blue%20Dragon.md) that had saved Haven before. We wanted to establish speaking terms and try and get on his good side since the attacks came. The way seem to be one already made by a mission some time ago, read the chronicles of adventurer [Lila](Lila). 
+We left Haven to the western gate. The target was the fabled [Dragon Mountain](Dragon%20Mountain) in [the creek](Resin%20Creek.md) that was rumoured to be home to the large [Blue Dragon](Blue%20Dragon.md) that had saved Haven before. We wanted to establish speaking terms and try and get on his good side since the attacks came. The way seem to be one already made by a mission some time ago, read the chronicles of adventurer [Lila](Lila). 
 
   
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "profiles of people/strider profiles/Laowai Xhê.md",
+                "file": "Out of character/uncreated files.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Laowai Xhê"
-            }
-          },
-          {
-            "id": "aa3b512e1fe5a042",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "uncreated files"
             }
           }
         ]
@@ -79,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skarn w",
+                "query": "brother",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -222,41 +208,41 @@
   },
   "active": "6b8c3ef8d015924b",
   "lastOpenFiles": [
+    "scriptorium/Missions/Mission - Revenge of the demons 13-05-19.md",
+    "scriptorium/bounty missions/Bounty - the whistling peaking.md",
+    "scriptorium/pdf/Revenge of the Demons.pdf",
+    "knowledge books/a documentation of locations in the new material/Areas and cities/Silent Woods.md",
+    "knowledge books/a documentation of locations in the new material/Areas and cities/Whistling Peaks.md",
+    "scriptorium/pdf/The Whistling Peaking.pdf",
+    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 8 Brother’s arms.md",
+    "scriptorium/expeditions/Expedition - grave robbing 13-8-4.md",
+    "scriptorium/expeditions/Expedition Report - Hotheads an esay on the fire tornado 13-6-25.md",
+    "scriptorium/bounty missions/Bounty - Dwindling Supplies 13-5-22.md",
+    "scriptorium/expeditions/Expedition report Hopefully no mutiny 13-07-26.md",
+    "scriptorium/bounty missions/Bounty - mission report_ cave diving in the silent woods 13-8-12.md",
+    "Out of character/tags/marked for investigation.md",
+    "scriptorium/expeditions/Chromatic crusade 13-22-6.md",
+    "scriptorium/bounty missions/grocery chopping report 13-6-26.md",
+    "scriptorium/bounty missions/Bounty Report - Girallons unchained 13-6-30.md",
+    "scriptorium/bounty missions/Bounty - Mission report - grocery chopping 13-08-10.md",
+    "scriptorium/bounty missions/Bounty - Grocery Chopping (Hard) 13-7-11.md",
+    "scriptorium/bounty missions/Bounty - Fire spider (the REDACTED files) - 13-8-7.md",
+    "scriptorium/pdf/Dwindling Supplies.pdf",
+    "scriptorium/pdf/Dwindling Supplies.docx",
+    "unsorted/Ryndell Ruins.md",
+    "profiles of people/strider profiles/Maeve.md",
+    "knowledge books/Taxonomical diffrences between diffrent humanoid races/Fishfolk.md",
+    "profiles of people/Allies of the striders guild/Blue Dragon.md",
     "profiles of people/strider profiles/Laowai Xhê.md",
     "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 11 The Bloody Lady.md",
     "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 10 A New Wall of Heads.md",
     "knowledge books/why dont you fix this, a collection of problems by pling/Skarn Wyvern.md",
-    "scriptorium/bounty missions/grocery chopping report 13-6-26.md",
     "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 9 The fallen Dragon.md",
-    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 1 Tiny gnomes.md",
-    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 8 Brother’s arms.md",
     "scriptorium/pdf/Tales of Khan.pdf",
-    "scriptorium/Luca being difficult to catagorize/Laowais field work/Mission 10 scorched metal.md",
     "Untitled.base",
-    "knowledge books/a documentation of locations in the new material/Haven. the shifted city (credits luca)/Districts/Housing districts.md",
-    "scriptorium/expeditions/Expedition report Hopefully no mutiny 13-07-26.md",
-    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 7 A False God’s Reveal.md",
-    "README.md",
-    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 6 Enormous Dragon.md",
-    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 5 Flightless dragons.md",
-    "unsorted/Blue Dragon.md",
-    "Out of character/tags/Ally.md",
     "profiles of people/Allies of the striders guild",
-    "knowledge books/a documentation of locations in the new material/Areas and cities/Resin Creek.md",
-    "unsorted/Fishfolk.md",
-    "scriptorium/Luca being difficult to catagorize/Tales of khan/Mission 4 Long live the chief.md",
-    "knowledge books/a documentation of locations in the new material/Areas and cities/Blood Lake.md",
-    "scriptorium/Luca being difficult to catagorize/Laowais field work/mission 3 Wind Broken.md",
-    "knowledge books/a documentation of locations in the new material/Haven. the shifted city (credits luca)/Districts/Waterford.md",
-    "knowledge books/a documentation of locations in the new material/Areas and cities/Wicked Copse.md",
-    "knowledge books/a documentation of locations in the new material/Areas and cities/The Broken Slough.md",
-    "knowledge books/a documentation of locations in the new material/Areas and cities/Silent Woods.md",
     "knowledge books/a documentation of locations in the new material/Areas and cities",
     "scriptorium/Luca being difficult to catagorize/Tales of khan",
-    "scriptorium/Luca being difficult to catagorize/Laowais field work",
-    "scriptorium/Luca being difficult to catagorize",
-    "knowledge books/a documentation of locations in the new material/Points of intrest",
-    "scriptorium/pdf/Expedition report - Goblin camp disruptors.pdf",
-    "scriptorium/pdf/Expedition report - Union work.pdf"
+    "scriptorium/Luca being difficult to catagorize/Laowais field work"
   ]
 }

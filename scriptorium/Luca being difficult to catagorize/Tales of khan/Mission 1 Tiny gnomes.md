@@ -40,7 +40,7 @@ When entering the house we could see a dining hall. Windows that were not visibl
 
 We found in the hall 3 painting, one of a corridor full of doors and windows letting in a storm wind at the end of the corridor stands a figure holding a purple flame. A second one of a room full of mirrors with once more a figure with a purple flame in the reflection. The last painting showed a cistern with in the middle a statue once more holding the same purple flame.
 
-In the hall we also located the exit at the fireplace, it was covered by magic bars who could not be opened by lass [Maeve](unsorted/Maeve.md) her magic or brute force. With a purple candelabra in front. 
+In the hall we also located the exit at the fireplace, it was covered by magic bars who could not be opened by lass [Maeve](Maeve.md) her magic or brute force. With a purple candelabra in front. 
 
   
 

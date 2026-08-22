@@ -20,7 +20,7 @@ Transcriber note: When [Khan](profiles%20of%20people/strider%20profiles/Khan.md)
 
   
 
-“When we got into the water, the first thing we noticed was that the slime had expanded, covering nearly every surface of the ruins. We kept our guard up as we knew of the [Fishfolk](unsorted/Fishfolk.md) hiding in it. Finding the cave in all the goo was no easy feat. When we entered, we eventually found a rune. It lit up, but to this day, I have no idea what it would do. Deeper we found your previous companions. [Goblinoid](Goblinoid) undeath. They were with the [Fishfolk](unsorted/Fishfolk.md) in these icy waters. It did not take a lot of effort to dispose of them. We afterwards found a weird little [kobold](kobold) in these caves. I do not know where they came from or what they did, but they showed us the way.”
+“When we got into the water, the first thing we noticed was that the slime had expanded, covering nearly every surface of the ruins. We kept our guard up as we knew of the [Fishfolk](Fishfolk.md) hiding in it. Finding the cave in all the goo was no easy feat. When we entered, we eventually found a rune. It lit up, but to this day, I have no idea what it would do. Deeper we found your previous companions. [Goblinoid](Goblinoid) undeath. They were with the [Fishfolk](Fishfolk.md) in these icy waters. It did not take a lot of effort to dispose of them. We afterwards found a weird little [kobold](kobold) in these caves. I do not know where they came from or what they did, but they showed us the way.”
 
   
 
@@ -32,4 +32,4 @@ Transcriber note: When [Khan](profiles%20of%20people/strider%20profiles/Khan.md)
 
   
 
-“The sword was no gift from god, but a cursed object from a conniving [devil](devil). During the night we were ambushed by waves of the [Ryndel](Ryndel) [Fishfolk](unsorted/Fishfolk.md). The curse that the sword infused in us made [Roboros](Roboros) and I go insane and to attack our loved ones. This was the last straw, we had to retreat from the [demons](demons) hiding in the shadows of the cathedral. I made sure to topple the statue and vowed to return to finish the job.”
+“The sword was no gift from god, but a cursed object from a conniving [devil](devil). During the night we were ambushed by waves of the [Ryndel](Ryndel) [Fishfolk](Fishfolk.md). The curse that the sword infused in us made [Roboros](Roboros) and I go insane and to attack our loved ones. This was the last straw, we had to retreat from the [demons](demons) hiding in the shadows of the cathedral. I made sure to topple the statue and vowed to return to finish the job.”

@@ -31,7 +31,7 @@ Once more we eventually reach a familiar-looking [[Resin Creek]] Forest after ha
 
   
 
-Eventually, we decided that t[[he Aviary]] was not gonna be found, it seems we did not guess right on what way we should have taken. Next time perhaps try going directly west from [[Haven]]. We decided to finish our quest going north once more. Apparently, if we went west any further we would have reached an unending collection of water. I dislike that idea. (The sea?) After a day of travel, we reached a hilly terrain and some time even later we arrived at something I haven’t had the pleasure of seeing before in this world. A castle made from blackened stone. It seemed strong and well-placed, reminding me a lot of those castles the [[humans]] were in when we came for missions. 
+Eventually, we decided that [[the Aviary]] was not gonna be found, it seems we did not guess right on what way we should have taken. Next time perhaps try going directly west from [[Haven]]. We decided to finish our quest going north once more. Apparently, if we went west any further we would have reached an unending collection of water. I dislike that idea. (The sea?) After a day of travel, we reached a hilly terrain and some time even later we arrived at something I haven’t had the pleasure of seeing before in this world. A castle made from blackened stone. It seemed strong and well-placed, reminding me a lot of those castles the [[humans]] were in when we came for missions. 
 
   
 

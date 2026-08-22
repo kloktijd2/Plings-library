@@ -1,3 +1,10 @@
+See also: [Report](Report.md)
+Posted by: [kingstarlightluca](kingstarlightluca.md) 
+Posted date: /
+Pdf: [Laowai's field work](Laowai's%20field%20work.pdf)
+Written by: [Laowai Xhê](Laowai%20Xhê.md)
+Location:[Dry Sea](Dry%20Sea)
+
 Lady Commander [[Laowai Xhê]]:  
 Lady [[Leona Bluefall]]
 Sir [[Rudy]] the Hand

@@ -4,5 +4,9 @@ views:
     order:
       - file.name
       - file.ctime
+      - aliases
+    sort:
+      - property: file.size
+        direction: DESC
   - type: table
     name: View

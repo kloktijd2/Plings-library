@@ -4,7 +4,6 @@ Posted date: 2026-6-26
 Pdf:[grocery chopping report](grocery%20chopping%20report.pdf)
 Written by: [Pling](Pling.md)
 Location: [Resin Creek](Resin%20Creek.md)
-#wip 
 
 i promised i was gonna write a song for this
 to bring new info to my people
